@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Reserva por zona</title>
+</head>
+<body>
+
+<h2>Selecciona tu calle</h2>
+
+<select id="calle">
+  <option value="">Cargando calles...</option>
+</select>
+
+<script>
+  const zonaURL = {
+    "sur": "https://outlook.office.com/book/CitaPreviaServiciosSocialesSIVO@sanfernando.es/s/MUR6bcYg_ke4YWv2Bd_BAQ2?ismsaljsauthenabled",
+    "centro": "https://outlook.office.com/book/CitaPreviaServiciosSocialesSIVO@sanfernando.es/s/bRvOgLQp00apBdVAHwB9_Q2?ismsaljsauthenabled",
+    "norte": "https://outlook.office.com/book/CitaPreviaServiciosSocialesSIVO@sanfernando.es/s/KUfhqj3TWUmgXOItAOhpSA2?ismsaljsauthenabled"
+  };
+
+  // 🔹 Cargar el TXT
+  fetch("callejero.txt")
+    .then(response => response.text())
+    .then(data => {
+      const lineas = data.split("\n");
+      const callesZona = {};
+      const select = document.getElementById("calle");
+
+      // Limpiar dropdown
+      select.innerHTML = '<option value="">-- Elige tu calle --</option>';
+
+      // Saltar cabecera
+      for (let i = 1; i < lineas.length; i++) {
+        const partes = lineas[i].split(";");
+
+        if (partes.length >= 4) {
+          const nombre = partes[0].trim();
+          const zona = partes[3].trim().toLowerCase();
+
+          callesZona[nombre] = zona;
+
+          // Añadir option al dropdown
+          const option = document.createElement("option");
+          option.value = nombre;
+          option.textContent = nombre;
+          select.appendChild(option);
+        }
+      }
+
+      // Evento selección
+      select.addEventListener("change", function() {
+        const calle = this.value;
+        const zona = callesZona[calle];
+
+        if (zona && zonaURL[zona]) {
+          window.location.href = zonaURL[zona];
+        }
+      });
+
+    })
+    .catch(error => {
+      console.error("Error cargando calles:", error);
+    });
+</script>
+
+</body>
+</html>
+``
