@@ -69,3 +69,32 @@ select {
   min-height: 1.2em;
   color: #b00;
 }
+
+@media (max-width: 640px) {
+  body {
+    margin: 1rem;
+    max-width: none;
+  }
+
+  .page-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .page-header img {
+    width: 70px;
+  }
+
+  .service-title {
+    font-size: 1.9rem;
+  }
+
+  h1 {
+    font-size: 1.3rem;
+  }
+
+  select {
+    font-size: 1rem;
+  }
+}
