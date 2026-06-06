@@ -11,6 +11,7 @@
 <select id="calle">
   <option value="">Cargando calles...</option>
 </select>
+<p id="status" style="color: red; font-style: italic;"></p>
 
 <script>
   const zonaURL = {
@@ -19,9 +20,16 @@
     "norte": "https://outlook.office.com/book/CitaPreviaServiciosSocialesSIVO@sanfernando.es/s/KUfhqj3TWUmgXOItAOhpSA2?ismsaljsauthenabled"
   };
 
+  const status = document.getElementById("status");
+
   // 🔹 Cargar el TXT
   fetch("callejero.txt")
-    .then(response => response.text())
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+      return response.text();
+    })
     .then(data => {
       const lineas = data.split("\n");
       const callesZona = {};
@@ -29,15 +37,17 @@
 
       // Limpiar dropdown
       select.innerHTML = '<option value="">-- Elige tu calle --</option>';
+      status.textContent = "";
 
       // Saltar cabecera
       for (let i = 1; i < lineas.length; i++) {
-        const partes = lineas[i].split(";");
+        const partes = lineas[i].trim().split(/\s*\t\s*|;/);
 
         if (partes.length >= 4) {
           const nombre = partes[0].trim();
           const zona = partes[3].trim().toLowerCase();
 
+          if (!nombre) continue;
           callesZona[nombre] = zona;
 
           // Añadir option al dropdown
@@ -46,6 +56,10 @@
           option.textContent = nombre;
           select.appendChild(option);
         }
+      }
+
+      if (select.options.length <= 1) {
+        status.textContent = "No se han encontrado calles en callejero.txt.";
       }
 
       // Evento selección
@@ -61,6 +75,7 @@
     })
     .catch(error => {
       console.error("Error cargando calles:", error);
+      status.textContent = "No se han cargado las calles. Abre esta página con un servidor local (por ejemplo Live Server) para poder leer callejero.txt.";
     });
 </script>
 
