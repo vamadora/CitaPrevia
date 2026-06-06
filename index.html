@@ -7,13 +7,20 @@
 </head>
 <body>
   <main>
-    <h1>Selecciona tu calle</h1>
-    <select id="calle" disabled>
-      <option value="">Cargando calles…</option>
-    </select>
+    <div class="page-header">
+      <img src="logo.png" alt="Ayuntamiento de San Fernando logo">
+      <div>
+        <p class="service-title">Cita Previa Servicios Sociales (SIVO)</p>
+      </div>
+    </div>
+    <div class="select-block">
+      <h1>Selecciona tu calle</h1>
+      <select id="calle" disabled>
+        <option value="">Cargando calles…</option>
+      </select>
+    </div>
     <p id="status" aria-live="polite"></p>
   </main>
-
   <script src="script.js"></script>
 </body>
 </html>
