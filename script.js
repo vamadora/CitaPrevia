@@ -25,11 +25,11 @@ async function cargarCalles() {
 function parseCalles(text) {
   const rows = text.split("\n").slice(1);
   return rows.reduce((map, row) => {
-    const partes = row.trim().split(/\s*\t\s*|;/);
-    if (partes.length < 4) return map;
+    const partes = row.trim().split(/\s+/);
+    if (partes.length < 5) return map;
 
     const nombre = partes[0].trim();
-    const zona = partes[3].trim().toLowerCase();
+    const zona = partes[4].trim().toLowerCase();
     if (nombre) map[nombre] = zona;
     return map;
   }, {});
