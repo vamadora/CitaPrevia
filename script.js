@@ -29,8 +29,9 @@ function parseCalles(text) {
     if (partes.length < 5) return map;
 
     const nombre = partes[0].trim();
+    const tipoVia = partes[1].trim();
     const zona = partes[4].trim().toLowerCase();
-    if (nombre) map[nombre] = zona;
+    if (nombre) map[nombre] = { zona, tipoVia };
     return map;
   }, {});
 }
@@ -40,7 +41,7 @@ function llenarSelect() {
   Object.keys(callesZona).forEach(nombre => {
     const option = document.createElement("option");
     option.value = nombre;
-    option.textContent = nombre;
+    option.textContent = `${nombre} (${callesZona[nombre].tipoVia})`;
     select.appendChild(option);
   });
 
@@ -49,9 +50,9 @@ function llenarSelect() {
 }
 
 select.addEventListener("change", () => {
-  const zona = callesZona[select.value];
-  if (zona && zonaURL[zona]) {
-    window.location.href = zonaURL[zona];
+  const calleData = callesZona[select.value];
+  if (calleData && zonaURL[calleData.zona]) {
+    window.location.href = zonaURL[calleData.zona];
   }
 });
 
