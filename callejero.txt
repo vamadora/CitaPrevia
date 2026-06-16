@@ -1,584 +1,584 @@
-Nombre                                                                                              TipoVia           Tramo                         Numero        Zona              DS                Codigo            
-ACACIAS                                                                                             CALLE             COMPLETO                      0             NORTE             4_4,4_6           2019
-ACIBELO VEGA                                                                                        CALLE             COMPLETO                      0             SUR               6_31              5172
-ADELFAS                                                                                             CALLE             COMPLETO                      0             NORTE             4_6               1169
-AGUADA (LA)                                                                                         LUGAR             COMPLETO                      0             ERACIS            1_1               284
-AGUSTINA DE ARAGON                                                                                  CALLE             COMPLETO                      0             NORTE             1_4               10
-AL-ANDALUS                                                                                          AVDA              COMPLETO                      0             SUR               6_9,6_10,6,13,6_2 3062
-ALAMO                                                                                               CALLE             COMPLETO                      0             NORTE             4_4               5062
-ALBARDONERO                                                                                         CALLE             COMPLETO                      0             NORTE             3_7,4_2           1011
-ALBENDA                                                                                             CALLE             COMPLETO                      0             SUR               6_11,6_25         5084
-ALBERCA                                                                                             CALLE             COMPLETO                      0             SUR               6_11              452
-ALBERTO AGUDO                                                                                       CALLE             COMPLETO                      0             SUR               6_17              5185
-ALBINA DEL PUENTE                                                                                   CALLE             COMPLETO                      0             NORTE             1_7,1_8           12
-ALCALDE RODRIGUEZ VIA�A                                                                             CALLE             COMPLETO                      0             SUR               6_27              1197
-ALCAZAR DE SEGOVIA                                                                                  CALLE             COMPLETO                      0             NORTE             1_13              25
-ALCAZAR DE TOLEDO                                                                                   CALLE             COMPLETO                      0             NORTE             1_14              13
-ALCUDIA                                                                                             CALLE             COMPLETO                      0             SUR               6_17              5173
-ALEGRIAS (DE LAS)                                                                                   PLAZA             COMPLETO                      0             SUR               6_17              5190
-ALGARROBO (DEL)                                                                                     CLLON             COMPLETO                      0             NORTE             1_7               369
-ALMERIA                                                                                             PLAZA             COMPLETO                      0             SUR               6_14              5230
-ALMIRANTE CERVERA                                                                                   CALLE             COMPLETO                      0             NORTE             3_4,3_7,3_8,4_2   2020
-ALMIRANTE FAUSTINO RUIZ                                                                             CALLE             COMPLETO                      0             CENTRO            6_1,6_21          5052
-ALMIRANTE FERNANDEZ ALMEIDA                                                                         CALLE             COMPLETO                      0             CENTRO            5_7               2028
-ALMIRANTE FRANCISCO MORENO                                                                          CALLE             COMPLETO                      0             CENTRO            6_3               17
-ALMIRANTE GARCIA DE LOMAS                                                                           CALLE             COMPLETO                      0             SUR               6_9               1013
-ALMIRANTE J M PERY JUNQUERA                                                                         AVDA              COMPLETO                      0             CENTRO            5_6               2021
-ALMIRANTE LEON HERRERO                                                                              AVDA              COMPLETO                      0             CENTRO            5_1,6_21          1224
-ALONDRA                                                                                             CALLE             COMPLETO                      0             SUR               6_8               5211
-ALONSO DE ORTEGA                                                                                    CALLE             COMPLETO                      0             NORTE             1_5               5158
-ALSEDO                                                                                              CALLE             COMPLETO                      0             CENTRO            6_5               3015
-AMARGURA                                                                                            CALLE             COMPLETO                      0             CENTRO            3_4,3_7,4_2,4_3   5072
-ANA MARIA MATUTE                                                                                    CALLE             COMPLETO                      0             NORTE             1_11              5221
-ANA RIVERO                                                                                          CALLE             COMPLETO                      0             NORTE             1_6               16
-ANDALUCIA (DE)                                                                                      AVDA              COMPLETO                      0             SUR               6_14              5227
-ANGEL                                                                                               CALLE             COMPLETO                      0             NORTE             1_1               40
-ANGEL GARCIA LOPEZ                                                                                  CALLE             COMPLETO                      0             SUR               6_14              3084
-ANGOSTO                                                                                             CLLON             COMPLETO                      0             SUR               6_24              5087
-ANTONIO DE LA CRUZ                                                                                  CALLE             COMPLETO                      0             SUR               6_19              3011
-ANTONIO DE ULLOA                                                                                    CALLE             COMPLETO                      0             CENTRO            5_7               5065
-ANTONIO LOPEZ                                                                                       CALLE             COMPLETO                      0             CENTRO            4_1,4_5           2010
-ANTONIO QUIJANO GOMEZ                                                                               CALLE             COMPLETO                      0             SUR               6_9               1028
-ANTONIO RODRIGUEZ CAMPOS                                                                            CALLE             COMPLETO                      0             SUR               6_26              3012
-ARANJUEZ                                                                                            CALLE             COMPLETO                      0             NORTE             1_4               31
-ARAPILES                                                                                            CALLE             COMPLETO                      0             NORTE             1_13              46
-ARAUCARIA                                                                                           CALLE             COMPLETO                      0             NORTE             4_4               1188
-ARBOREA                                                                                             CALLE             COMPLETO                      0             SUR               6_26              5201
-ARENAL                                                                                              CALLE             COMPLETO                      0             CENTRO            4_1,5_2           1018
-ARGENTINA                                                                                           CALLE             COMPLETO                      0             SUR               6_24              2501
-ARGUELLES                                                                                           CALLE             COMPLETO                      0             SUR               6_28              2022
-ARMADA (DE LA)                                                                                      CALLE             COMPLETO                      0             NORTE             1_14              5141
-ARQUITECTO TORCUATO CAYON                                                                           CALLE             COMPLETO                      0             CENTRO            5_7               1230
-ARRAYANES (LOS)                                                                                     CALLE             COMPLETO                      0             NORTE             4_4,4_6           2037
-ARSENAL DE LA CARRACA                                                                               LUGAR             COMPLETO                      0             NORTE             1_1               53
-ARTESANO JOSE M. SILVA                                                                              CALLE             COMPLETO                      0             SUR               6_7,6_30          5021
-ASTEROIDES                                                                                          CALLE             COMPLETO                      0             SUR               6_26              260
-ASTURIAS                                                                                            CALLE             COMPLETO                      0             CENTRO            5_6               3020
-AUGUSTO DE MIRANDA                                                                                  CALLE             COMPLETO                      0             NORTE             2_1,3_2           1010
-AURORA                                                                                              CALLE             COMPLETO                      0             NORTE             1_17              505
-BAHIA (DE LA)                                                                                       PLAZA             COMPLETO                      0             NORTE             1_12              22
-BALEARES                                                                                            CALLE             COMPLETO                      0             CENTRO            5_6               3036
-BAMBERAS                                                                                            CALLE             COMPLETO                      0             SUR               6_26,6_30         5210
-BARCAZA                                                                                             CALLE             COMPLETO                      0             SUR               6_15              132
-BARCELO                                                                                             CALLE             COMPLETO                      0             CENTRO            5_4               3019
-BARCOS (DE LOS)                                                                                     PLAZA             COMPLETO                      0             SUR               6_16              4080
-BARQUILLA                                                                                           CALLE             COMPLETO                      0             SUR               6_11              3056
-BATALLA DEL EBRO                                                                                    CALLE             COMPLETO                      0             NORTE             1_14,1_15,1_17    52
-BATALLONES DE MARINA                                                                                AVDA              COMPLETO                      0             SUR               6_15,6_20         147
-BATERIA (DE LA)                                                                                     CTRA              COMPLETO                      0             SUR               6_8,6_24,6_31     530
-BAZAN                                                                                               BARDA             COMPLETO                      0             ERACIS            ½,1_3             19
-BAZAN                                                                                               CALLE             COMPLETO                      0             NORTE             1_10              15
-BELEN                                                                                               CALLE             COMPLETO                      0             NORTE             1_1               262
-BENITEZ MORERA                                                                                      CALLE             COMPLETO                      0             SUR               6_20              28
-BENITO CELLIER                                                                                      CALLE             COMPLETO                      0             CENTRO            5_7               1052
-BENJAMIN LOPEZ                                                                                      CALLE             COMPLETO                      0             CENTRO            5_1,6_1,6_10,6_28 2038
-BERGANTIN                                                                                           CALLE             COMPLETO                      0             SUR               6_15              150
-BERNAL                                                                                              CALLE             COMPLETO                      0             SUR               6_31              366
-BOLIVIA                                                                                             CALLE             COMPLETO                      0             SUR               6_24              2506
-BONIFAZ                                                                                             CALLE             COMPLETO                      0             NORTE             2_1,1_7,1_8,1_10  39
-BRAVO                                                                                               CALLE             COMPLETO                      0             CENTRO            5_4               2024
-BUEN PASTOR                                                                                         CALLE             COMPLETO                      0             SUR               6_7,6_11,6_16,6_1 2014
-CACHO                                                                                               CALLE             COMPLETO                      0             SUR               6_24              3031
-CADIZ                                                                                               CALLE             COMPLETO                      0             NORTE             1_8               44
-CALATRAVA                                                                                           CALLE             COMPLETO                      0             NORTE             1_10,1_16,2_1,3_5 21
-CALDERON DE LA BARCA                                                                                CALLE             COMPLETO                      0             CENTRO            5_2,5_3,5_4       23
-CALLAO                                                                                              CALLE             COMPLETO                      0             CENTRO            5_4               2045
-CAMPANILLEROS                                                                                       CALLE             COMPLETO                      0             SUR               6_26              5203
-CAMPOMANES                                                                                          CALLE             COMPLETO                      0             NORTE             1_1               66
-CAMPOSOTO (CUARTELES DE)                                                                            LUGAR             COMPLETO                      0             SUR               6_31              5028
-CAMPOSOTO (DE)                                                                                      CTRA              COMPLETO                      0             SUR               6_8,6_17,6_24,6_2 3033
-CANAL DE SAN JORGE                                                                                  CALLE             COMPLETO                      0             SUR               6_28              5178
-CANARIAS                                                                                            CALLE             COMPLETO                      0             CENTRO            5_6               1054
-CANARIO                                                                                             CALLE             COMPLETO                      0             SUR               6_8               372
-CANASTERAS                                                                                          CALLE             COMPLETO                      0             SUR               6_26              5193
-CANTAUTOR CARLOS CANO                                                                               AVDA              COMPLETO                      0             SUR               6_26              2034
-CANTAUTOR VICTOR JARA                                                                               CALLE             COMPLETO                      0             SUR               6_31              3100
-CANTE (DEL)                                                                                         RTDA              COMPLETO                      0             SUR               6_17              5191
-CANTERA DE RICO                                                                                     LUGAR             COMPLETO                      0             NORTE             1_11              1027
-CANTERA DEL REY                                                                                     CLLON             COMPLETO                      0             NORTE             1_15,1_17         65
-CANTILLO (EL)                                                                                       CALLE             COMPLETO                      0             CENTRO            6_2               1006
-CAÑO HERRERA                                                                                        CTRA              COMPLETO                      0             NORTE             1_9               341
-CAPATAZ NICOLAS CARRILLO                                                                            CALLE             COMPLETO                      0             NORTE             4_2               2165
-CAPITAN ANGEL SEVILLANO                                                                             CALLE             COMPLETO                      0             CENTRO            5_6               1067
-CAPITAN CONFORTO                                                                                    PASEO             COMPLETO                      0             NORTE             1_14              71
-CAPRI                                                                                               CALLE             COMPLETO                      0             NORTE             1_9               11
-CARDENAL SPINOLA                                                                                    CALLE             COMPLETO                      0             NORTE             3_3               1021
-CARLOS III                                                                                          AVDA              COMPLETO                      0             NORTE             1_1,1_4           278
-CARMEN                                                                                              CALLE             COMPLETO                      0             CENTRO            6_5,6_6           2018
-CARMEN (DEL)                                                                                        PLAZA             COMPLETO                      0             SUR               6_28              2075
-CARRACA                                                                                             CALLE             COMPLETO                      0             NORTE             2_1,1_7,1_8,1_12  27
-CARRACA (DE LA)                                                                                     CTRA               TODOS PARES                  0             ERACIS            1_1               72
-CARRACA (DE LA)                                                                                     CTRA              TODOS IMPARES                 4             NORTE             1_1               72
-CARTAGENA                                                                                           CALLE             COMPLETO                      0             NORTE             1_8               60
-CARTAGENERAS                                                                                        CALLE             COMPLETO                      0             SUR               6_30              5202
-CARTOGRAFO VICENTE TOFI�O                                                                           CALLE             COMPLETO                      0             CENTRO            5_7               5066
-CASCOS AZULES DE LA ISLA                                                                            CALLE             COMPLETO                      0             CENTRO            5_1,6_21          5152
-CASERIO DE INFANTE                                                                                  PLAZA             COMPLETO                      0             NORTE             1_17              5063
-CASERIO DE RICARDO                                                                                  CALLE             COMPLETO                      0             NORTE             1_5               5159
-CASTILLO DE LOYOLA                                                                                  CALLE             COMPLETO                      0             NORTE             1_9               32
-CASTILLO DE OLITE                                                                                   CALLE             COMPLETO                      0             CENTRO            5_7               87
-CAYETANO DEL TORO                                                                                   CALLE             COMPLETO                      0             CENTRO            4_1,4_5           2031
-CAYETANO ROLDAN                                                                                     AVDA              COMPLETO                      0             NORTE             3_1,4_4           1191
-CECILIO PUJAZON                                                                                     CALLE             COMPLETO                      0             CENTRO            5_2,5_4,6_1,6_21  1039
-CENTURIA ISLA DE LEON                                                                               CALLE             COMPLETO                      0             NORTE             1_6,1_9           47
-CERRO DE LOS ANGELES                                                                                CALLE             COMPLETO                      0             SUR               6_26              2048
-CERVANTES                                                                                           CALLE             COMPLETO                      0             CENTRO            4_1               2046
-CETINA                                                                                              CALLE             COMPLETO                      0             SUR               6_31              388
-CHAMARIZ                                                                                            CALLE             COMPLETO                      0             SUR               6_8               5175
-CHAPISTAS                                                                                           CALLE             COMPLETO                      0             NORTE             1_9               275
-CHARRAN                                                                                             CALLE             COMPLETO                      0             SUR               6_8               5174
-CHILE                                                                                               CALLE             COMPLETO                      0             SUR               6_24,6_31         2510
-CHOPO                                                                                               CALLE             COMPLETO                      0             NORTE             4_6               5097
-CHURRUCA                                                                                            CALLE             COMPLETO                      0             NORTE             1_10,2_1,3_6      45
-CID (DEL)                                                                                           AVDA              COMPLETO                      0             NORTE             1_7               131
-CIGUEÑA                                                                                             CALLE             COMPLETO                      0             SUR               6_8               5039
-COFRADIA DEL HUERTO                                                                                 CALLE             COMPLETO                      0             NORTE             1_11,1_12         146
-COGHEN (DE)                                                                                         CLLON             COMPLETO                      0             NORTE             3_1,3_5           29
-COLEGIO NAVAL SACRAMENTO                                                                            CALLE             COMPLETO                      0             CENTRO            6_1,6_21          2055
-COLOMBIA                                                                                            CALLE             COMPLETO                      0             SUR               6_24              2509
-COLOMBIANAS                                                                                         CALLE             COMPLETO                      0             SUR               6_30              5197
-COLON                                                                                               CALLE             COMPLETO                      0             NORTE             3_1,3_2,3_3,3_6,4 1036
-COLUMNAS DE HERCULES                                                                                CALLE             COMPLETO                      0             CENTRO            5_1               5232
-COMANDANTE G C REULA GOMEZ                                                                          CALLE             COMPLETO                      0             NORTE             3_7               1063
-COMANDANTE RUIZ MARCET                                                                              CALLE             COMPLETO                      0             NORTE             1_6,1_10,1_16     41
-COMETA                                                                                              CALLE             COMPLETO                      0             SUR               6_26              5093
-COMPAÑIA DE MARIA                                                                                   CALLE             COMPLETO                      0             SUR               6_24,6_31         2059
-CONCEJAL MANUEL BELIZON                                                                             CALLE             COMPLETO                      0             NORTE             1_5               5094
-CONCHA PEREZ BATURONE                                                                               CALLE             COMPLETO                      0             SUR               6_10,6_28         167
-CONDE DE FLORIDABLANCA                                                                              CALLE             COMPLETO                      0             NORTE             1_4               62
-CONDE DE LA MARQUINA                                                                                CALLE             COMPLETO                      0             SUR               6_25              3107
-CONDESA DE MORALES                                                                                  CALLE             COMPLETO                      0             NORTE             4_6               5030
-CONSTITUCION (DE LA)                                                                                AVDA              COMPLETO                      0             SUR               6_16,6_17,6_25,6_ 2074
-CONSTRUCTOR TAPIA                                                                                   CALLE             COMPLETO                      0             NORTE             1_15              1002
-CONSTRUCTORA NAVAL                                                                                  CALLE             COMPLETO                      0             NORTE             3_3,4_5           1042
-CORBETA                                                                                             CALLE             COMPLETO                      0             SUR               6_11              3029
-CORDOBA                                                                                             CALLE             COMPLETO                      0             SUR               6_29              5132
-CORNELIO BALBO                                                                                      AVDA              COMPLETO                      0             SUR               6_12              4019
-CORONEL GABRIEL MOURENTE                                                                            CALLE             COMPLETO                      0             SUR               6_19              3026
-CORRELIMOS                                                                                          CALLE             COMPLETO                      0             SUR               6_8               5040
-CORTA                                                                                               CALLE             COMPLETO                      0             SUR               6_24              2062
-CORTES (LAS)                                                                                        CALLE             COMPLETO                      0             CENTRO            4_1               1059
-COSTA RICA                                                                                          CALLE             COMPLETO                      0             SUR               6_31              2513
-CROQUER (DE)                                                                                        CLLON             COMPLETO                      0             NORTE             3_4               1079
-CRUZ ROJA ESPAÑOLA                                                                                  CALLE             COMPLETO                      0             SUR               6_9               1034
-CRUZ (DE LA)                                                                                        RTDA              COMPLETO                      0             NORTE             1_5               537
-CUARTEL DE INSTRUCCION                                                                              LUGAR             COMPLETO                      0             NORTE             1_14              603
-CUBA                                                                                                CALLE             COMPLETO                      0             SUR               6_31              2504
-CUSTODIO                                                                                            CALLE             COMPLETO                      0             NORTE             1_1               88
-DANIEL GONZALEZ                                                                                     CALLE             COMPLETO                      0             NORTE             3_2               1046
-DAOIZ                                                                                               CALLE             COMPLETO                      0             CENTRO            4_1,5_2           1044
-DIEGO DE ALVEAR                                                                                     CALLE             COMPLETO                      0             NORTE             3_4               1098
-DIRECTOR DEL OBSERVATORIO - TOMAS AZCARATE                                                          CALLE             COMPLETO                      0             CENTRO            5_1               2136
-DOCTOR ARCOS DE LA PLAZA                                                                            CALLE             COMPLETO                      0             NORTE             3_1               1193
-DOCTOR BARRAQUER                                                                                    CALLE             COMPLETO                      0             NORTE             3_5               1040
-DOCTOR CELESTINO REY-JOLY                                                                           CALLE             COMPLETO                      0             SUR               6_17,6_27         1184
-DOCTOR CELLIER                                                                                      CALLE             COMPLETO                      0             CENTRO            5_4,5_5           1033
-DOCTOR EROSTARBE                                                                                    CALLE             COMPLETO                      0             NORTE             1_6               68
-DOCTOR FRANCISCO COBOS                                                                              CALLE             COMPLETO                      0             NORTE             1_16,1_7,1_8,1_12 76
-DOCTOR JIMENEZ DIAZ                                                                                 CALLE             COMPLETO                      0             NORTE             3_5               91
-DOCTOR MARAÑON                                                                                      CALLE             COMPLETO                      0             NORTE             3_5               1053
-DOCTOR PEDRO GONZALEZ DE LA TORRE                                                                   CALLE             COMPLETO                      0             SUR               6_31              3101
-DOCTOR PEDRO VELEZ                                                                                  CALLE             COMPLETO                      0             CENTRO            5_7               90
-DOCTOR REVUELTA SOBA                                                                                CALLE             COMPLETO                      0             CENTRO            5_6               3041
-DOLORES                                                                                             CALLE             COMPLETO                      0             CENTRO            5_3               1029
-DON JORGE                                                                                           CALLE             COMPLETO                      0             CENTRO            5_5               239
-DRAGO                                                                                               CALLE             COMPLETO                      0             NORTE             4_4               2080
-DUQUE DE ARCOS                                                                                      AVDA              COMPLETO                      0             SUR               6_12,6_22         3024
-ECUADOR                                                                                             CALLE             COMPLETO                      0             SUR               6_31              2511
-EMPERADOR CARLOS                                                                                    PLAZA             COMPLETO                      0             SUR               6_20              3052
-ESCAÑO                                                                                              CALLE             COMPLETO                      0             NORTE             3_2               59
-ESCOPETEROS SALINEROS                                                                               CALLE             COMPLETO                      0             SUR               6_8               1019
-ESCORIAL (EL)                                                                                       CALLE             COMPLETO                      0             NORTE             1_4,1_13          78
-ESCRIBANO DE LA TORRE CANALES                                                                       CALLE             COMPLETO                      0             NORTE             1_17              5183
-ESCRIBANO GUTIERREZ DE MORON                                                                        CALLE             COMPLETO                      0             NORTE             1_17              5184
-ESCRITOR FRANCISCO MONTES AGUILERA                                                                  CALLE             COMPLETO                      0             NORTE             4_5               1175
-ESCRITOR GERMAN CAOS                                                                                CALLE             COMPLETO                      0             NORTE             1_5               5156
-ESCRITOR LUIS BERENGUER                                                                             CALLE             COMPLETO                      0             SUR               6_17              276
-ESCRITOR MANUEL BARRIOS                                                                             CALLE             COMPLETO                      0             CENTRO            5_6               3089
-ESCRITORA MARIA ZAMBRANO                                                                            CALLE             COMPLETO                      0             SUR               6_26              2013
-ESCUELA DE SUBOFICIALES                                                                             LUGAR             COMPLETO                      0             NORTE             1_14              126
-ESCULTOR ALFONSO BERRAQUERO GARCIA                                                                  CALLE             COMPLETO                      0             NORTE             3_2               5359
-ESCULTOR ANTONIO BEY                                                                                CALLE             COMPLETO                      0             NORTE             1_11              1064
-ESTERO (DEL)                                                                                        PLAZA             COMPLETO                      0             NORTE             1_12              69
-ESTOPIÑAN                                                                                           CALLE             COMPLETO                      0             NORTE             1_17              5160
-ESTRELLA                                                                                            CALLE             COMPLETO                      0             SUR               6_26              5215
-FALUCHO                                                                                             CALLE             COMPLETO                      0             SUR               6_15              163
-FEDERICO GARCIA LORCA                                                                               CALLE             COMPLETO                      0             SUR               6_14              3097
-FELIPE II                                                                                           CALLE             COMPLETO                      0             NORTE             1_1               112
-FERROCARRIL                                                                                         CALLE             COMPLETO                      0             NORTE             1_9               281
-FERROL (EL)                                                                                         CALLE             COMPLETO                      0             NORTE             1_8               95
-FLAMENCO                                                                                            CALLE             COMPLETO                      0             SUR               6_8               5037
-FLORENCIA                                                                                           CALLE             COMPLETO                      0             NORTE             1_9               50
-FLORES (LAS)                                                                                        PLAZA             COMPLETO                      0             NORTE             1_5               586
-FRAGATA                                                                                             CALLE             COMPLETO                      0             SUR               6_11              1035
-FRANCISCO DE LA VEGA                                                                                CALLE             COMPLETO                      0             SUR               6_31              5171
-FRANCISCO JAVIER DE URIARTE                                                                         CALLE             COMPLETO                      0             NORTE             1_15              5351
-FRANCISCO RUIZ MIGUEL                                                                               CALLE             COMPLETO                      0             NORTE             3_8               1222
-FRAY GERONIMO DE LA CONCEPCION                                                                      CALLE             COMPLETO                      0             NORTE             1_17              5064
-FRESADORES                                                                                          CALLE             COMPLETO                      0             NORTE             1_9               294
-FRESIA                                                                                              CALLE             COMPLETO                      0             CENTRO            6_1               2068
-GABRIEL GONZALEZ CAMOYANO                                                                           CALLE             COMPLETO                      0             NORTE             1_9               63
-GALAXIAS                                                                                            CALLE             COMPLETO                      0             SUR               6_26              5059
-GALEON                                                                                              CALLE             COMPLETO                      0             SUR               6_11              3040
-GALERA                                                                                              CALLE             COMPLETO                      0             SUR               6_11              3053
-GALIANO                                                                                             CALLE             COMPLETO                      0             SUR               6_28              2069
-GALICIA (DE)                                                                                        PLAZA             COMPLETO                      0             NORTE             1_8               5238
-GALON                                                                                               CALLE             COMPLETO                      0             CENTRO            5_1               1225
-GARZA                                                                                               CALLE             COMPLETO                      0             SUR               6_8               5038
-GASPAR FERNANDEZ DE LEON                                                                            CALLE             COMPLETO                      0             NORTE             1_1               127
-GENERAL FLORENCIO MONTOJO                                                                           CALLE             COMPLETO                      0             NORTE             1_7,1_8,1_10      64
-GENERAL GARCIA DE LA HERRAN                                                                         CALLE             COMPLETO                      0             CENTRO            4_1,4_4,4_5,4_6,5 2101
-GENERAL LOBO                                                                                        PASEO             COMPLETO                      0             NORTE             1_16              93
-GENERAL PUJALES                                                                                     CALLE             COMPLETO                      0             CENTRO            5_6,5_7           1104
-GENERAL RICARDO OLIVERA                                                                             CALLE             COMPLETO                      0             SUR               6_22              2081
-GENERAL SERRANO                                                                                     CALLE             COMPLETO                      0             CENTRO            4_1               2118
-GENERAL VALDES                                                                                      CALLE             COMPLETO                      0             CENTRO            5_3,5_4           2083
-GOLETA                                                                                              CALLE             COMPLETO                      0             SUR               6_11              2066
-GOLONDRINA                                                                                          CALLE             COMPLETO                      0             SUR               6_8               405
-GONZALEZ DE LA VEGA                                                                                 CALLE             COMPLETO                      0             NORTE             3_3               1055
-GONZALEZ HONTORIA                                                                                   CALLE             COMPLETO                      0             NORTE             4_5               1100
-GONZALO DE CORDOBA                                                                                  CALLE             COMPLETO                      0             NORTE             1_7,1_12          70
-GORRION                                                                                             CALLE             COMPLETO                      0             SUR               6_8               412
-GOYA                                                                                                CALLE             COMPLETO                      0             NORTE             1_4               97
-GRANADA                                                                                             CALLE             COMPLETO                      0             SUR               6_29              5133
-GRANJA (LA)                                                                                         CALLE             COMPLETO                      0             NORTE             1_4               101
-GRAVINA                                                                                             CALLE             COMPLETO                      0             NORTE             3_6               1089
-GUACOLDA                                                                                            CALLE             COMPLETO                      0             CENTRO            6_1               2107
-GUATEMALA                                                                                           CALLE             COMPLETO                      0             SUR               6_31              2516
-GUTIERREZ AGABO                                                                                     CALLE             COMPLETO                      0             NORTE             1_7               86
-HERMANAS CARMELITAS                                                                                 CALLE             COMPLETO                      0             SUR               6_24,6_31         3139
-HERMANOS ALVAREZ QUINTERO                                                                           CALLE             COMPLETO                      0             CENTRO            5_6               3106
-HERMANOS DE LA SALLE                                                                                CALLE             COMPLETO                      0             SUR               6_26              3051
-HERMANOS LAGARDE                                                                                    CALLE             COMPLETO                      0             NORTE             1_6               107
-HERMANOS LAULHE                                                                                     CALLE             COMPLETO                      0             CENTRO            4_1               1123
-HERMANOS MACHADO                                                                                    CALLE             COMPLETO                      0             SUR               6_14              4139
-HERMANOS PINZON                                                                                     CALLE             COMPLETO                      0             NORTE             1_14              5033
-HERNAN CORTES                                                                                       CALLE             COMPLETO                      0             NORTE             1_8,2_1,3_2       116
-HEROES DE CAVITE                                                                                    CALLE             COMPLETO                      0             CENTRO            5_7               1111
-HEROES DEL BALEARES                                                                                 CALLE             COMPLETO                      0             CENTRO            5_4               2100
-HERRAN (LA)                                                                                         CALLE             COMPLETO                      0             NORTE             3_4,4_2           1073
-HONDURAS                                                                                            CALLE             COMPLETO                      0             SUR               6_31              2512
-HORNOS PUNICOS                                                                                      PLAZA             COMPLETO                      0             CENTRO            5_1,6_10,6_29     5165
-HUELVA                                                                                              CALLE             COMPLETO                      0             SUR               6_29              5134
-HUERTA CASTAÑEDA                                                                                    LUGAR             COMPLETO                      0             SUR               6_31              545
-HUERTA DE LAS FLORES                                                                                LUGAR                                           0                                                 2160
-HUERTA ENCARNACION                                                                                  LUGAR             COMPLETO                      0             NORTE             1_5               180
-HUERTA LOS TORILILLOS                                                                               LUGAR             COMPLETO                      0             SUR               6_24              2182
-HUERTA REVERBERO                                                                                    LUGAR             COMPLETO                      0             NORTE             1_5               224
-HUERTA SAN IGNACIO                                                                                  LUGAR             COMPLETO                      0             SUR               6_31              524
-HUERTA SAN JOAQUIN                                                                                  LUGAR             COMPLETO                      0             SUR               6_26              4064
-HUERTA SANTA ROSA                                                                                   LUGAR             COMPLETO                      0             NORTE             1_14              261
-HUERTA TORTOSA                                                                                      LUGAR             COMPLETO                      0             NORTE             1_5               277
-INGENIERO JOSE BARNOLA                                                                              CALLE             COMPLETO                      0             NORTE             1_5               5157
-INGENIERO JUAN CARBO                                                                                CALLE             COMPLETO                      0             CENTRO            5_7               4133
-INGENIERO VARGAS MACHUCA                                                                            CALLE             COMPLETO                      0             NORTE             1_15              5349
-INSTITUTO SANTI PETRI                                                                               LUGAR             COMPLETO                      0             NORTE             3_8               1243
-INTENDENTE PATIÑO                                                                                   CALLE             COMPLETO                      0             NORTE             1_13              160
-ISAAC PERAL                                                                                         CALLE             COMPLETO                      0             CENTRO            5_2,5_3           1060
-ISLA DE LEON                                                                                        CALLE             COMPLETO                      0             SUR               6_31              427
-JABEQUE                                                                                             CALLE             COMPLETO                      0             SUR               6_15              2179
-JACINTO BENAVENTE                                                                                   CALLE             COMPLETO                      0             NORTE             1_11              159
-JAEN                                                                                                PLAZA             COMPLETO                      0             SUR               6_14              5229
-JARDINILLO                                                                                          CALLE             COMPLETO                      0             NORTE             3_4               130
-JAVIER MEDINA                                                                                       CALLE             COMPLETO                      0             NORTE             1_15              5352
-JAZMIN                                                                                              CALLE             COMPLETO                      0             NORTE             3_7               1145
-JERUSALEN                                                                                           CALLE             COMPLETO                      0             NORTE             1_1               5218
-JESUS DE LA MISERICORDIA                                                                            CALLE             COMPLETO                      0             NORTE             2_1               83
-JESUS DE LOS AFLIGIDOS                                                                              CALLE             COMPLETO                      0             NORTE             1_9               79
-JESUS NAZARENO                                                                                      CALLE             COMPLETO                      0             SUR               6_26              2070
-JILGUERO                                                                                            CALLE             COMPLETO                      0             SUR               6_8               433
-JOAQUIN CRISTELLY                                                                                   CALLE             COMPLETO                      0             NORTE             1_6               114
-JOLY VELASCO                                                                                        PASEO             COMPLETO                      0             NORTE             1_14              283
-JORGE JUAN                                                                                          CALLE             COMPLETO                      0             NORTE             4_2               2089
-JOSE GARZON                                                                                         CALLE             COMPLETO                      0             SUR               6_31              1209
-JOSE GIL SANCHEZ                                                                                    CALLE             COMPLETO                      0             SUR               6_9               2052
-JOSE LOPEZ RODRIGUEZ                                                                                CALLE             COMPLETO                      0             CENTRO            5_2               1076
-JOSE MARIA CARPIO                                                                                   CALLE             COMPLETO                      0             NORTE             1_6               129
-JOSE MARIA PEMAN                                                                                    CALLE             COMPLETO                      0             SUR               6_14              4101
-JOSE MARIA PEREDA                                                                                   CALLE             COMPLETO                      0             CENTRO            5_6               3113
-JOSE QUETAR                                                                                         CALLE             COMPLETO                      0             SUR               6_26              2086
-JOSE RAMOS BORRERO                                                                                  CALLE             COMPLETO                      0             SUR               6_11,6_16,6_25    4114
-JOSE SUAREZ                                                                                         PLAZA             COMPLETO                      0             NORTE             1_11,1_16         1099
-JOVELLANOS                                                                                          CALLE             COMPLETO                      0             SUR               6_28              1115
-JUAN DE AUSTRIA                                                                                     CALLE             COMPLETO                      0             NORTE             1_16,1_7,1_10,1_1 99
-JUAN DE LA COSA                                                                                     CALLE             COMPLETO                      0             NORTE             1_14              5032
-JUAN DE MARIANA                                                                                     CALLE             COMPLETO                      0             NORTE             3_3               1068
-JUAN FRANZON A�INO                                                                                  CALLE             COMPLETO                      0             SUR               6_9               1065
-JUAN MALPICA                                                                                        CALLE             COMPLETO                      0             NORTE             1_14              296
-JUAN RAMON JIMENEZ                                                                                  CALLE             COMPLETO                      0             NORTE             1_11              5060
-JUAN SEBASTIAN ELCANO                                                                               CALLE             COMPLETO                      0             NORTE             1_14,1_15,1_17    300
-JUAN VAN HALEN                                                                                      CALLE             COMPLETO                      0             CENTRO            6_4               2012
-JUPITER                                                                                             CALLE             COMPLETO                      0             SUR               6_26              3099
-LADRILLERA (DE LA)                                                                                  PLAZA             COMPLETO                      0             NORTE             4_6               5031
-LANDA                                                                                               CALLE             COMPLETO                      0             NORTE             1_5               317
-LANUZA                                                                                              CALLE             COMPLETO                      0             CENTRO            5_4               2117
-LANZA                                                                                               CALLE             COMPLETO                      0             NORTE             1_10,2_1          106
-LAURIA                                                                                              CALLE             COMPLETO                      0             CENTRO            6_4,6_5,6_18      4041
-LEPANTO                                                                                             CALLE             COMPLETO                      0             CENTRO            5_2               82
-LEZO                                                                                                CALLE             COMPLETO                      0             CENTRO            5_5               1070
-LISTA                                                                                               CALLE             COMPLETO                      0             CENTRO            4_3,5_3           2072
-LOPE DE VEGA                                                                                        CALLE             COMPLETO                      0             CENTRO            5_5,6_2           3047
-LOSADA                                                                                              CALLE             COMPLETO                      0             CENTRO            5_4,6_1           3114
-LUGANO                                                                                              CALLE             COMPLETO                      0             SUR               6_8               448
-LUIS CERNUDA                                                                                        CALLE             COMPLETO                      0             SUR               6_14              3118
-LUIS DE ARDILA                                                                                      CALLE             COMPLETO                      0             NORTE             1_6               153
-LUIS DE OSSIO                                                                                       CALLE             COMPLETO                      0             NORTE             1_14,1_15,1_17    5045
-LUIS MILENA                                                                                         CALLE             COMPLETO                      0             SUR               6_8,6_11,6_25     451
-LUNA                                                                                                CALLE             COMPLETO                      0             SUR               6_26              1201
-MADRES CAPUCHINAS                                                                                   CALLE             COMPLETO                      0             NORTE             4_6               1173
-MAESTRO FRANCISCO ROMERO NARANJO                                                                    CALLE             COMPLETO                      0             NORTE             1_15              1001
-MAESTRO PORTELA                                                                                     CALLE             COMPLETO                      0             NORTE             2_1,3_6           100
-MAGALLANES                                                                                          CALLE             COMPLETO                      0             NORTE             1_17,1_5,1_14,1_1 322
-MALAGA                                                                                              CALLE             COMPLETO                      0             SUR               6_14              5228
-MALAGUE�AS                                                                                          CALLE             COMPLETO                      0             SUR               6_26              5204
-MALASPINA                                                                                           CALLE             COMPLETO                      0             CENTRO            5_5,6_2,6_3       2050
-MALDONADO                                                                                           CALLE             COMPLETO                      0             CENTRO            5_7               84
-MALLORCA                                                                                            CALLE             COMPLETO                      0             CENTRO            5_4               2138
-MANUEL DE ARRIAGA                                                                                   CALLE             COMPLETO                      0             CENTRO            6_1               2129
-MANUEL DE FALLA                                                                                     CALLE             COMPLETO                      0             CENTRO            6_3,6_18          3039
-MANUEL MONTESINO ANILLO                                                                             CALLE             COMPLETO                      0             NORTE             1_6               166
-MANUEL ROLDAN                                                                                       CALLE             COMPLETO                      0             NORTE             2_1,3_2,3_6       1097
-MARCONI                                                                                             CALLE             COMPLETO                      0             NORTE             3_2               1101
-MARIA AUXILIADORA                                                                                   CALLE             COMPLETO                      0             SUR               6_24              1015
-MARIANA DE ARTEAGA                                                                                  CALLE             COMPLETO                      0             CENTRO            6_2,6_3,6_18      1069
-MARIANA DE PINEDA                                                                                   CALLE             COMPLETO                      0             NORTE             2_1,3_2           122
-MARINA (DE LA)                                                                                      AVDA              COMPLETO                      0             SUR               6_6,6_20          49
-MARINA (LA)                                                                                         CLLON             COMPLETO                      0             NORTE             1_17              338
-MARISMAS                                                                                            CALLE             COMPLETO                      0             CENTRO            6_21              2135
-MARQUES DE CAZALLA                                                                                  CALLE             COMPLETO                      0             NORTE             1_14              512
-MARQUES DE LA ENSENADA                                                                              CALLE             COMPLETO                      0             NORTE             1_4               118
-MARQUES DE LA VICTORIA                                                                              CALLE             COMPLETO                      0             NORTE             1_8               121
-MARQUES DE RECA�O                                                                                   CALLE             COMPLETO                      0             SUR               6_25              1140
-MARQUES DE URE�A                                                                                    CALLE             COMPLETO                      0             CENTRO            5_4               2156
-MARTINETE (DEL)                                                                                     PLAZA             COMPLETO                      0             SUR               6_17              5189
-MATILDE VEZ GARCIA                                                                                  CALLE             COMPLETO                      0             NORTE             1_14              5361
-MATRONA ANA MARISCAL                                                                                CALLE             COMPLETO                      0             SUR               6_10,6_28         5177
-MAYORAZGA                                                                                           CALLE             COMPLETO                      0             CENTRO            5_5               1110
-MAZARREDO                                                                                           CALLE             COMPLETO                      0             NORTE             3_6               1128
-MEJICO                                                                                              CALLE             COMPLETO                      0             SUR               6_24,6_31         2502
-MENDEZ NU�EZ                                                                                        CALLE             COMPLETO                      0             NORTE             1_8,1_10,2_1      138
-MENORCA                                                                                             CALLE             COMPLETO                      0             CENTRO            5_4               2169
-MERCURIO                                                                                            CALLE             COMPLETO                      0             SUR               6_26              2110
-METEORITOS                                                                                          CALLE             COMPLETO                      0             SUR               6_26              5106
-MILONGAS                                                                                            CALLE             COMPLETO                      0             SUR               6_17,6_30         5206
-MINERAS                                                                                             CALLE             COMPLETO                      0             SUR               6_17,6_60         5209
-MI�O                                                                                                CALLE             COMPLETO                      0             NORTE             1_8               5236
-MOGUER                                                                                              CALLE             COMPLETO                      0             CENTRO            5_6               3128
-MONTA�ESES DE LA ISLA                                                                               CALLE             COMPLETO                      0             NORTE             3_2,3_4,3_8       5074
-MONTIGNY                                                                                            CALLE             COMPLETO                      0             CENTRO            5_1,6_10          5180
-MORENO DE GUERRA                                                                                    ALAM              COMPLETO                      0             CENTRO            6_1               3016
-MOSQUETE                                                                                            CALLE             COMPLETO                      0             NORTE             1_17              304
-MU�OZ TORRERO                                                                                       CALLE             COMPLETO                      0             NORTE             4_6               5029
-MURILLO                                                                                             CALLE             COMPLETO                      0             NORTE             3_3,3_4,4_2,4_5   74
-MUROS                                                                                               CALLE             COMPLETO                      0             CENTRO            5_6               2134
-NAO VICTORIA                                                                                        PLAZA             COMPLETO                      0             SUR               6_16              3135
-NAPOLES                                                                                             CALLE             COMPLETO                      0             NORTE             1_10              128
-NARANJOS                                                                                            CALLE             COMPLETO                      0             NORTE             4_4               2114
-NAZARET                                                                                             CALLE             COMPLETO                      0             NORTE             1_1               170
-NEBULOSAS                                                                                           CALLE             COMPLETO                      0             SUR               6_26              5149
-NEPTUNO (DE)                                                                                        PLAZA             COMPLETO                      0             CENTRO            6_23              3059
-NICARAGUA                                                                                           CALLE             COMPLETO                      0             SUR               6_31              2517
-NICOLA                                                                                              CALLE             COMPLETO                      0             NORTE             3_4               1183
-NOTARIO NICOLÁS M  DE SIERRA                                                                        CALLE             COMPLETO                      0             NORTE             1_15              5350
-NOYA                                                                                                CALLE             COMPLETO                      0             NORTE             4_4               1129
-NUESTRA SEÑORA DE ARANZAZU                                                                          CALLE             COMPLETO                      0             NORTE             1_9               85
-NUEVA                                                                                               CALLE             COMPLETO                      0             SUR               6_24              255
-OBISPO VERA DELGADO                                                                                 CALLE             COMPLETO                      0             NORTE             1_15              5353
-OBSERVATORIO DE MARINA                                                                              LUGAR             COMPLETO                      0             CENTRO            5_7               1245
-OBUSERA                                                                                             CALLE             COMPLETO                      0             SUR               6_16              5025
-OLIVARILLO                                                                                          CALLE             COMPLETO                      0             CENTRO            6_4,6_18          3057
-OLMO                                                                                                CALLE             COMPLETO                      0             NORTE             4_4               255
-OLMO                                                                                                CALLE             COMPLETO                      0             NORTE             4_4               1135
-ONOFRE ORY                                                                                          CALLE             COMPLETO                      0             NORTE             1_14              343
-ORLANDO                                                                                             CALLE             COMPLETO                      0             CENTRO            6_5               2054
-ORTEGA Y GASSET                                                                                     CALLE             COMPLETO                      0             NORTE             1_6               172
-OSA MAYOR                                                                                           CALLE             COMPLETO                      0             SUR               6_26              1203
-OSA MENOR                                                                                           CALLE             COMPLETO                      0             SUR               6_26              1204
-PADILLA                                                                                             CALLE             COMPLETO                      0             CENTRO            5_2               1095
-PADRE FRANCO                                                                                        CALLE             COMPLETO                      0             SUR               6_9               1071
-PAGO ARBOLEDILLA                                                                                    LUGAR             COMPLETO                      0             SUR               6_31              268
-PAGO TORRE REDONDA                                                                                  LUGAR             COMPLETO                      0             SUR               6_26              1257
-PALACIO VALDES                                                                                      CALLE             COMPLETO                      0             CENTRO            5_6               3149
-PALMA                                                                                               CALLE             COMPLETO                      0             CENTRO            6_5               2067
-PALO                                                                                                CALLE             COMPLETO                      0             SUR               6_24              293
-PANAMA                                                                                              CALLE             COMPLETO                      0             SUR               6_24              2508
-PARAGUAY                                                                                            CALLE             COMPLETO                      0             SUR               6_24              2514
-PARDO (EL)                                                                                          CALLE             COMPLETO                      0             NORTE             1_4,1_13          123
-PASCUAL O'DOGHERTY                                                                                  CALLE             COMPLETO                      0             NORTE             1_9               102
-PASTOR                                                                                              CALLE             COMPLETO                      0             NORTE             1_15              356
-PASTOR MIGUEL BLANCO FERRER                                                                         CALLE             COMPLETO                      0             NORTE             1_6               5340
-PATIO DE LA ACEQUIA                                                                                 LUGAR             COMPLETO                      0             NORTE             1_14              535
-PATRONA                                                                                             CALLE             COMPLETO                      0             NORTE             1_9,1_10          119
-PECES CASAS                                                                                         CALLE             COMPLETO                      0             CENTRO            5_4               2175
-PEDRO MESA                                                                                          CALLE             COMPLETO                      0             NORTE             1_14              375
-PEDROSO (EL)                                                                                        CALLE             COMPLETO                      0             SUR               6_24              464
-PERDIZ                                                                                              CALLE             COMPLETO                      0             SUR               6_8               5213
-PEREZ GALDOS                                                                                        CALLE             COMPLETO                      0             CENTRO            4_2,4_3,5_3       1050
-PESCADORES                                                                                          CALLE             COMPLETO                      0             CENTRO            6_2               3079
-PICAFINA                                                                                            CALLE             COMPLETO                      0             SUR               6_8               5146
-PINO (DEL)                                                                                          CLLON             COMPLETO                      0             NORTE             1_5               564
-PINTOR ANGEL COUSILLAS                                                                              CALLE             COMPLETO                      0             CENTRO            5_6               3152
-PINTOR FERNANDO VELA                                                                                CALLE             COMPLETO                      0             SUR               6_17,6_27         5044
-PINTOR HERNANDEZ HOMEDES                                                                            CALLE             COMPLETO                      0             SUR               6_27              3125
-PINTOR JOSE MARTINEZ PEPIÑO                                                                         CALLE             COMPLETO                      0             NORTE             1_6,1_16          55
-PIO XII                                                                                             CALLE             COMPLETO                      0             NORTE             1_1               203
-PISA                                                                                                CALLE             COMPLETO                      0             NORTE             1_9               124
-PIZARRO                                                                                             CALLE             COMPLETO                      0             CENTRO            6_2               3060
-PLANETA                                                                                             CALLE             COMPLETO                      0             SUR               6_26              5168
-PLAYA DE LA CASERIA                                                                                 LUGAR             COMPLETO                      0             NORTE             1_15              5167
-PLUTON                                                                                              CALLE             COMPLETO                      0             SUR               6_26              2131
-POETA JIMENEZ DE AYLLON                                                                             CALLE             COMPLETO                      0             NORTE             4_6               5145
-POETA PABLO NERUDA                                                                                  CALLE             COMPLETO                      0             SUR               6_31              1211
-POETA RAFAEL ALBERTI                                                                                CALLE             COMPLETO                      0             SUR               6_14,6_23         5055
-PONCE DE LEON                                                                                       AVDA              COMPLETO                      0             SUR               6_12,6_49,6_22    189
-PRESIDENTE LAZARO DOU                                                                               CALLE             COMPLETO                      0             SUR               6_28              192
-PRESIDENTE SALVADOR ALLENDE                                                                         CALLE             COMPLETO                      0             SUR               6_31              1210
-PRIM                                                                                                CALLE             COMPLETO                      0             SUR               6_31              335
-PRINCIPE                                                                                            CALLE             COMPLETO                      0             NORTE             1_13              139
-PROFESOR ANTONIO RAMOS                                                                              CALLE             COMPLETO                      0             NORTE             3_1,3_5,3_6       1072
-PROFESOR JOSE AUMENTE                                                                               CALLE             COMPLETO                      0             SUR               6_10              5179
-PROFESOR VIEYTES MUÑOZ                                                                              CALLE             COMPLETO                      0             SUR               6_28              5161
-PROLONGACION DE SANTA MARIA                                                                         CALLE             COMPLETO                      0             NORTE             1_9               145
-PUENTE LAVAERA                                                                                      CALLE             COMPLETO                      0             CENTRO            6_2               1075
-PUENTE ZUAZO                                                                                        AVDA              COMPLETO                      0             NORTE             1_8,3_8           1196
-PUERTO DE PALOS                                                                                     BARDA             COMPLETO                      0             CENTRO            5_6               2171
-PUERTO RICO                                                                                         CALLE             COMPLETO                      0             SUR               6_31              2503
-QUEVEDO                                                                                             CALLE             COMPLETO                      0             NORTE             4_5               1122
-QUIDORA                                                                                             CALLE             COMPLETO                      0             CENTRO            6_1               1153
-RAMON MENENDEZ PIDAL                                                                                CALLE             COMPLETO                      0             NORTE             1_7,1_12          3108
-RAMON Y CAJAL                                                                                       CALLE             COMPLETO                      0             NORTE             1_11,1_16         188
-REAL                                                                                                CALLE                                           1             CENTRO            3_4,4_1,4_2,4_3   1161
-REAL CARENERO                                                                                       CALLE             COMPLETO                      0             NORTE             1_14              5143
-RECREO EL MOLINO                                                                                    LUGAR             COMPLETO                      0             NORTE             1_15              420
-REGIDOR NICOLAS EGEA                                                                                CALLE             COMPLETO                      0             NORTE             1_17              5182
-RESIDENCIA CRUZ ROJA                                                                                LUGAR             COMPLETO                      0             NORTE             3_8               1244
-REVELACION                                                                                          CALLE             COMPLETO                      0             NORTE             1_1               225
-REY (DEL)                                                                                           PLAZA             COMPLETO                      0             CENTRO            4_1,5_3           35
-REYES CATOLICOS                                                                                     AVDA              COMPLETO                      0             NORTE             3_1,3_5,3_6,4_5,4 5077
-REYES MAGOS                                                                                         CALLE             COMPLETO                      0             NORTE             1_1               231
-RIAS BAJAS                                                                                          CALLE             COMPLETO                      0             NORTE             1_8               5235
-RIOFRIO                                                                                             CALLE             COMPLETO                      0             NORTE             1_13              144
-RODRIGUEZ DE ARIAS                                                                                  PLAZA             COMPLETO                      0             CENTRO            5_5               48
-RONDA DEL ESTERO                                                                                    AVDA                                            7             CENTRO            5_5               5309
-RONDEÑAS                                                                                            CALLE             COMPLETO                      0             SUR               6_17              5208
-ROSARIO                                                                                             CALLE             COMPLETO                      0             NORTE             3_3,4_2,4_5       1016
-RUISEÑOR                                                                                            CALLE             COMPLETO                      0             SUR               6_8               5176
-RUIZ AHUMADA                                                                                        CALLE             COMPLETO                      0             NORTE             1_17              5140
-SALINA SAN VICENTE                                                                                  LUGAR             COMPLETO                      0             NORTE             1_1               232
-SALINAS (DE LAS)                                                                                    PLAZA             COMPLETO                      0             NORTE             1_12              115
-SALINEROS                                                                                           CALLE             COMPLETO                      0             CENTRO            6_2               3102
-SAN AGUSTIN                                                                                         CALLE             COMPLETO                      0             SUR               6_22,6_28         1120
-SAN ANACLETO                                                                                        CALLE             COMPLETO                      0             NORTE             1_8               142
-SAN ANTONIO                                                                                         CALLE             COMPLETO                      0             CENTRO            6_5,6_18          3076
-SAN BRUNO                                                                                           CALLE             COMPLETO                      0             CENTRO            5_5,6_2,6_3,6_18  2119
-SAN CIPRIANO                                                                                        CALLE             COMPLETO                      0             NORTE             3_3               1093
-SAN CRISTOBAL                                                                                       CALLE             COMPLETO                      0             CENTRO            4_3,5_3           2063
-SAN DIEGO DE ALCALA                                                                                 CALLE             COMPLETO                      0             CENTRO            4_1               2139
-SAN DIMAS                                                                                           CALLE             COMPLETO                      0             NORTE             2_1,3_2           1139
-SAN ESTEBAN                                                                                         CALLE             COMPLETO                      0             NORTE             3_3               1107
-SAN FEDERICO                                                                                        CALLE             COMPLETO                      0             NORTE             1_5,1_14          533
-SAN FELIX DE VALOIS                                                                                 CALLE             COMPLETO                      0             NORTE             1_16              191
-SAN FRANCISCO DE ASIS                                                                               CALLE             COMPLETO                      0             CENTRO            4_3               2079
-SAN FRANCISCO DE BORJA                                                                              CALLE             COMPLETO                      0             NORTE             1_9               158
-SAN FRANCISCO JAVIER                                                                                CALLE             COMPLETO                      0             NORTE             1_9               161
-SAN GASPAR                                                                                          CALLE             COMPLETO                      0             NORTE             3_3               1114
-SAN GIL                                                                                             CALLE             COMPLETO                      0             SUR               6_20              1090
-SAN IGNACIO                                                                                         CALLE             COMPLETO                      0             NORTE             1_9,1_10,3_5      1088
-SAN JOAQUIN                                                                                         CALLE             COMPLETO                      0             CENTRO            6_1,6_28          2188
-SAN JOSE                                                                                            CALLE             COMPLETO                      0             CENTRO            5_3               1127
-SAN JOSE                                                                                            PLAZA             COMPLETO                      0             CENTRO            5_3               186
-SAN JOSE Y SAN ANTONIO                                                                              CALLE             COMPLETO                      0             NORTE             1_6,1_9           205
-SAN JUAN                                                                                            PLAZA             COMPLETO                      0             NORTE             1_5               454
-SAN JUAN BAUTISTA                                                                                   CALLE             COMPLETO                      0             NORTE             1_11,1_12,1_16    212
-SAN JUAN BOSCO                                                                                      AVDA              COMPLETO                      0             CENTRO            3_7,3_8           5216
-SAN JUAN DE DIOS                                                                                    CALLE             COMPLETO                      0             SUR               6_26              2146
-SAN JUAN DE LA CRUZ                                                                                 CALLE             COMPLETO                      0             SUR               6_10,6_28         1141
-SAN MARCOS                                                                                          CALLE             COMPLETO                      0             CENTRO            3_4,3_7,4_2,4_3,5 2128
-SAN MIGUEL                                                                                          CALLE             COMPLETO                      0             NORTE             1_8,1_14          155
-SAN MIGUEL                                                                                          PLAZA             COMPLETO                      0             NORTE             2_1               548
-SAN NICOLAS                                                                                         CALLE             COMPLETO                      0             CENTRO            3_8,4_3           2032
-SAN ONOFRE                                                                                          CALLE                                           0             CENTRO            6_3,6_4,6_5,6_6   2060
-SAN PEDRO APOSTOL                                                                                   CALLE             COMPLETO                      0             NORTE             4_2,4_3           2098
-SAN QUINTIN                                                                                         CALLE             COMPLETO                      0             SUR               6_20              104
-SAN RAFAEL                                                                                          CALLE             COMPLETO                      0             NORTE             1_16,1_7,1_10,1_1 61
-SAN ROMAN                                                                                           CALLE             COMPLETO                      0             CENTRO            6_5               3092
-SAN ROQUE                                                                                           CALLE             COMPLETO                      0             NORTE             1_15,1_17         467
-SAN SERVANDO                                                                                        CALLE             COMPLETO                      0             NORTE             3_4,4_2,4_3       1217
-SAN VICENTE                                                                                         CALLE             COMPLETO                      0             NORTE             4_2               2152
-SANCHEZ CERQUERO                                                                                    CALLE             COMPLETO                      0             CENTRO            5_2,5_3,5_4       1109
-SANCHEZ MARQUEZ                                                                                     CALLE             COMPLETO                      0             CENTRO            5_5               1178
-SANTA ANA                                                                                           CALLE             COMPLETO                      0             NORTE             1_14              536
-SANTA BARBARA                                                                                       CALLE             COMPLETO                      0             CENTRO            6_4,6_5           2051
-SANTA BARBARA                                                                                       PLAZA             COMPLETO                      0             CENTRO            6_21              2191
-SANTA CRUZ                                                                                          CALLE             COMPLETO                      0             NORTE             2_1               169
-SANTA GERTRUDIS                                                                                     CALLE             COMPLETO                      0             CENTRO            6_4,6_5           4113
-SANTA JOAQUINA DE VEDRUNA                                                                           CALLE             COMPLETO                      0             NORTE             1_9               196
-SANTA JUANA DE LESTONAC                                                                             PLAZA             COMPLETO                      0             CENTRO            6_21              1212
-SANTA LUCIA                                                                                         CALLE             COMPLETO                      0             NORTE             3_6               175
-SANTA MARIA                                                                                         CALLE             COMPLETO                      0             NORTE             1_9,1_10          200
-SANTA MARIA DE LA CABEZA                                                                            CALLE             COMPLETO                      0             NORTE             1_9               217
-SANTA RITA                                                                                          CALLE             COMPLETO                      0             NORTE             1_9               222
-SANTA ROSA                                                                                          CALLE             COMPLETO                      0             NORTE             1_14              5138
-SANTA ROSALIA                                                                                       CALLE             COMPLETO                      0             NORTE             2_1,3_2           157
-SANTA TERESA DE JESUS                                                                               CALLE             COMPLETO                      0             NORTE             1_8,2_1           194
-SANTIAGO                                                                                            CALLE             COMPLETO                      0             CENTRO            4_3,5_3           151
-SANTIAGO DE COMPOSTELA                                                                              CALLE             COMPLETO                      0             NORTE             1_8               5233
-SANTISIMA TRINIDAD                                                                                  CALLE             COMPLETO                      0             CENTRO            5_5               184
-SANTO ANGEL                                                                                         CALLE             COMPLETO                      0             NORTE             1_15              551
-SANTO DOMINGO                                                                                       CALLE             COMPLETO                      0             NORTE             2_1,3_2           208
-SANTO ENTIERRO                                                                                      CALLE             COMPLETO                      0             SUR               6_11,6_15,6_20    2111
-SANTO TOMAS DE AQUINO                                                                               CALLE             COMPLETO                      0             SUR               6_24              1017
-SATELITE                                                                                            CALLE             COMPLETO                      0             SUR               6_26              5169
-SATURNINO MONTOJO                                                                                   CALLE             COMPLETO                      0             CENTRO            5_2,5_3           1116
-SATURNO                                                                                             CALLE             COMPLETO                      0             SUR               6_26              2159
-SEBASTIAN VENTURA                                                                                   CALLE             COMPLETO                      0             NORTE             1_14              489
-SEGUIRIYAS                                                                                          CALLE             COMPLETO                      0             SUR               6_30              5195
-SEQUERO GLORIETA                                                                                    CALLE             COMPLETO                      0             NORTE             1_6               227
-SERRANAS                                                                                            CALLE             COMPLETO                      0             SUR               6_17              5207
-SERVANDO CAMUÑEZ                                                                                    CALLE             COMPLETO                      0             NORTE             1_11,1_16         162
-SERVANDO GUTIERREZ                                                                                  CALLE             COMPLETO                      0             NORTE             1_6,1_10          171
-SEVILLA                                                                                             CALLE             COMPLETO                      0             SUR               6_29              5127
-SIERRA                                                                                              CALLE             COMPLETO                      0             SUR               6_11              1105
-SIRENAS (DE LAS)                                                                                    PLAZA             COMPLETO                      0             CENTRO            6_23              2144
-SOL                                                                                                 CALLE             COMPLETO                      0             SUR               6_30,6_26         5170
-SOLEDAD (DE LA)                                                                                     CLLON             COMPLETO                      0             NORTE             4_3               5151
-SOLIS                                                                                               CALLE             COMPLETO                      0             CENTRO            6_5               5027
-SUBESTACION COMPAÑIA SEVILLANA                                                                      LUGAR             COMPLETO                      0             NORTE             1_14              492
-TANGUILLOS                                                                                          CALLE             COMPLETO                      0             SUR               6_17,6_30         5199
-TARANTOS                                                                                            CALLE             COMPLETO                      0             SUR               6_17,6_30         5200
-TERAN                                                                                               CALLE             COMPLETO                      0             SUR               6_20              2126
-TERCIO DE ARMADA                                                                                    LUGAR             COMPLETO                      0             NORTE             1_14              493
-TERCIO DE FLANDES                                                                                   PLAZA             COMPLETO                      0             SUR               6_6               2076
-TIERRA                                                                                              CALLE             COMPLETO                      0             SUR               6_26              1202
-TILOS                                                                                               CALLE             COMPLETO                      0             NORTE             4_4               1172
-TIRSO DE MOLINA                                                                                     CALLE             COMPLETO                      0             CENTRO            5_5               201
-TOMAS DEL VALLE                                                                                     CALLE             COMPLETO                      0             CENTRO            5_3,5_4           1208
-TOMAS Y VALIENTE                                                                                    RTDA              COMPLETO                      0             SUR               6_8               5186
-TORERO RAFAEL ORTEGA                                                                                CALLE             COMPLETO                      0             NORTE             1_14              538
-TORPEDERA                                                                                           CALLE             COMPLETO                      0             SUR               6_11              2112
-TORRECHICA                                                                                          CALLE             COMPLETO                      0             CENTRO            5_1               5220
-TORTOLA                                                                                             CALLE             COMPLETO                      0             SUR               6_8               5129
-TRAFALGAR                                                                                           CALLE             COMPLETO                      0             NORTE             1_10              187
-URANO                                                                                               CALLE             COMPLETO                      0             SUR               6_26              218
-URUGUAY                                                                                             CALLE             COMPLETO                      0             SUR               6_31              2515
-VEINTICUATRO DE SEPTIEMBRE 1810                                                                     CALLE             COMPLETO                      0             NORTE             4_5               1156
-VELARDE                                                                                             CALLE             COMPLETO                      0             CENTRO            5_5,6_2,6_3       1130
-VELAZQUEZ                                                                                           CALLE             COMPLETO                      0             CENTRO            4_3               1119
-VENEZUELA                                                                                           CALLE             COMPLETO                      0             SUR               6_24,6_31         2505
-VENUS                                                                                               CALLE             COMPLETO                      0             SUR               6_26              2162
-VERA CRUZ                                                                                           CALLE             COMPLETO                      0             CENTRO            5_5               244
-VERDERON                                                                                            CALLE             COMPLETO                      0             SUR               6_8               470
-VERDIALES                                                                                           CALLE             COMPLETO                      0             SUR               6_30              5198
-VERONICA                                                                                            CALLE             COMPLETO                      0             CENTRO            5_5               223
-VESTUARIO DE COMEDIAS                                                                               CALLE             COMPLETO                      0             CENTRO            5_5               257
-VIA LACTEA                                                                                          CALLE             COMPLETO                      0             SUR               6_26              1223
-VICARIO                                                                                             CALLE             COMPLETO                      0             NORTE             3_3               1080
-VICTORIA EUGENIA                                                                                    PLAZA             COMPLETO                      0             NORTE             3_5               5131
-VIENTO DEL SUR                                                                                      CALLE             COMPLETO                      0             CENTRO            5_5               1005
-VIRGEN DE LA ESTRELLA                                                                               PSAJE             COMPLETO                      0             NORTE             4_5               1181
-VIRIATO                                                                                             CALLE             COMPLETO                      0             NORTE             1_12,1_6          136
-VOLUNTARIOS REALISTAS                                                                               CALLE             COMPLETO                      0             SUR               6_24              1022
-WENCESLAO BENITEZ                                                                                   CALLE             COMPLETO                      0             CENTRO            5_1               1219
-ZARZUELA (LA)                                                                                       CALLE             COMPLETO                      0             NORTE             1_13              176
-ZORZAL                                                                                              CALLE             COMPLETO                      0             SUR               6_8               5212
-                                                                                                                                                    0
+﻿Nombre,TipoVia,Tramo,Numero,Zona,DS,Codigo
+ACACIAS,"CALLE ",COMPLETO,0,NORTE,"4_4,4_6",2019
+"ACIBELO VEGA",CALLE,COMPLETO,0,SUR,6_31,5172
+ADELFAS,"CALLE ",COMPLETO,0,NORTE,4_6,1169
+"AGUADA (LA)",LUGAR,COMPLETO,0,ERACIS,1_1,284
+"AGUSTINA DE ARAGON","CALLE ",COMPLETO,0,NORTE,1_4,10
+AL-ANDALUS,AVDA,COMPLETO,0,SUR,"6_9,6_10,6,13,6_29",3062
+ALAMO,CALLE,COMPLETO,0,NORTE,4_4,5062
+ALBARDONERO,CALLE,COMPLETO,0,NORTE,"3_7,4_2",1011
+ALBENDA,CALLE,COMPLETO,0,SUR,"6_11,6_25",5084
+ALBERCA,CALLE,COMPLETO,0,SUR,6_11,452
+"ALBERTO AGUDO",CALLE,COMPLETO,0,SUR,6_17,5185
+"ALBINA DEL PUENTE",CALLE,COMPLETO,0,NORTE,"1_7,1_8",12
+"ALCALDE RODRIGUEZ VIAÑA",CALLE,COMPLETO,0,SUR,6_27,1197
+"ALCAZAR DE SEGOVIA",CALLE,COMPLETO,0,NORTE,1_13,25
+"ALCAZAR DE TOLEDO",CALLE,COMPLETO,0,NORTE,1_14,13
+ALCUDIA,CALLE,COMPLETO,0,SUR,6_17,5173
+"ALEGRIAS (DE LAS)","PLAZA ",COMPLETO,0,SUR,6_17,5190
+"ALGARROBO (DEL)",CLLON,COMPLETO,0,NORTE,1_7,369
+ALMERIA,PLAZA,COMPLETO,0,SUR,6_14,5230
+"ALMIRANTE CERVERA",CALLE,COMPLETO,0,NORTE,"3_4,3_7,3_8,4_2 ",2020
+"ALMIRANTE FAUSTINO RUIZ",CALLE,COMPLETO,0,CENTRO,"6_1,6_21",5052
+"ALMIRANTE FERNANDEZ ALMEIDA",CALLE,COMPLETO,0,CENTRO,5_7,2028
+"ALMIRANTE FRANCISCO MORENO","CALLE ",COMPLETO,0,CENTRO,6_3,17
+"ALMIRANTE GARCIA DE LOMAS",CALLE,COMPLETO,0,SUR,6_9,1013
+"ALMIRANTE J M PERY JUNQUERA",AVDA,COMPLETO,0,CENTRO,5_6,2021
+"ALMIRANTE LEON HERRERO",AVDA,COMPLETO,0,CENTRO,"5_1,6_21",1224
+ALONDRA,CALLE,COMPLETO,0,SUR,6_8,5211
+"ALONSO DE ORTEGA",CALLE,COMPLETO,0,NORTE,1_5,5158
+ALSEDO,CALLE,COMPLETO,0,CENTRO,6_5,3015
+AMARGURA,CALLE,COMPLETO,0,CENTRO,"3_4,3_7,4_2,4_3",5072
+"ANA MARIA MATUTE",CALLE,COMPLETO,0,NORTE,1_11,5221
+"ANA RIVERO",CALLE,COMPLETO,0,NORTE,1_6,16
+"ANDALUCIA (DE)",AVDA,COMPLETO,0,SUR,6_14,5227
+ANGEL,CALLE,COMPLETO,0,NORTE,1_1,40
+"ANGEL GARCIA LOPEZ",CALLE,COMPLETO,0,SUR,6_14,3084
+ANGOSTO,CLLON,COMPLETO,0,SUR,6_24,5087
+"ANTONIO DE LA CRUZ",CALLE,COMPLETO,0,SUR,6_19,3011
+"ANTONIO DE ULLOA",CALLE,COMPLETO,0,CENTRO,5_7,5065
+"ANTONIO LOPEZ",CALLE,COMPLETO,0,CENTRO,"4_1,4_5",2010
+"ANTONIO QUIJANO GOMEZ",CALLE,COMPLETO,0,SUR,6_9,1028
+"ANTONIO RODRIGUEZ CAMPOS",CALLE,COMPLETO,0,SUR,6_26,3012
+ARANJUEZ,CALLE,COMPLETO,0,NORTE,1_4,31
+ARAPILES,CALLE,COMPLETO,0,NORTE,1_13,46
+ARAUCARIA,CALLE,COMPLETO,0,NORTE,4_4,1188
+ARBOREA,CALLE,COMPLETO,0,SUR,6_26,5201
+ARENAL,CALLE,COMPLETO,0,CENTRO,"4_1,5_2",1018
+ARGENTINA,CALLE,COMPLETO,0,SUR,6_24,2501
+ARGUELLES,CALLE,COMPLETO,0,SUR,6_28,2022
+"ARMADA (DE LA)",CALLE,COMPLETO,0,NORTE,1_14,5141
+"ARQUITECTO TORCUATO CAYON",CALLE,COMPLETO,0,CENTRO,5_7,1230
+"ARRAYANES (LOS)",CALLE,COMPLETO,0,NORTE,"4_4,4_6",2037
+"ARSENAL DE LA CARRACA",LUGAR,COMPLETO,0,NORTE,1_1,53
+"ARTESANO JOSE M. SILVA",CALLE,COMPLETO,0,SUR,"6_7,6_30",5021
+ASTEROIDES,CALLE,COMPLETO,0,SUR,6_26,260
+ASTURIAS,CALLE,COMPLETO,0,CENTRO,5_6,3020
+"AUGUSTO DE MIRANDA",CALLE,COMPLETO,0,NORTE,"2_1,3_2",1010
+AURORA,CALLE,COMPLETO,0,NORTE,1_17,505
+"BAHIA (DE LA)",PLAZA,COMPLETO,0,NORTE,1_12,22
+BALEARES,CALLE,COMPLETO,0,CENTRO,5_6,3036
+BAMBERAS,CALLE,COMPLETO,0,SUR,"6_26,6_30",5210
+BARCAZA,CALLE,COMPLETO,0,SUR,6_15,132
+BARCELO,CALLE,COMPLETO,0,CENTRO,5_4,3019
+"BARCOS (DE LOS)",PLAZA,COMPLETO,0,SUR,6_16,4080
+BARQUILLA,CALLE,COMPLETO,0,SUR,6_11,3056
+"BATALLA DEL EBRO",CALLE,COMPLETO,0,NORTE,"1_14,1_15,1_17",52
+"BATALLONES DE MARINA",AVDA,COMPLETO,0,SUR,"6_15,6_20",147
+"BATERIA (DE LA)",CTRA,COMPLETO,0,SUR,"6_8,6_24,6_31",530
+BAZAN,BARDA,COMPLETO,0,ERACIS,"½,1_3",19
+BAZAN,CALLE,COMPLETO,0,NORTE,1_10,15
+BELEN,CALLE,COMPLETO,0,NORTE,1_1,262
+"BENITEZ MORERA",CALLE,COMPLETO,0,SUR,6_20,28
+"BENITO CELLIER",CALLE,COMPLETO,0,CENTRO,5_7,1052
+"BENJAMIN LOPEZ",CALLE,COMPLETO,0,CENTRO,"5_1,6_1,6_10,6_28",2038
+BERGANTIN,CALLE,COMPLETO,0,SUR,6_15,150
+BERNAL,CALLE,COMPLETO,0,SUR,6_31,366
+BOLIVIA,CALLE,COMPLETO,0,SUR,6_24,2506
+BONIFAZ,CALLE,COMPLETO,0,NORTE,"2_1,1_7,1_8,1_10",39
+BRAVO,CALLE,COMPLETO,0,CENTRO,5_4,2024
+"BUEN PASTOR",CALLE,COMPLETO,0,SUR,"6_7,6_11,6_16,6_17",2014
+CACHO,CALLE,COMPLETO,0,SUR,6_24,3031
+CADIZ,CALLE,COMPLETO,0,NORTE,1_8,44
+CALATRAVA,CALLE,COMPLETO,0,NORTE,"1_10,1_16,2_1,3_5,3_6",21
+"CALDERON DE LA BARCA",CALLE,COMPLETO,0,CENTRO,"5_2,5_3,5_4",23
+CALLAO,CALLE,COMPLETO,0,CENTRO,5_4,2045
+CAMPANILLEROS,CALLE,COMPLETO,0,SUR,6_26,5203
+CAMPOMANES,CALLE,COMPLETO,0,NORTE,1_1,66
+"CAMPOSOTO (CUARTELES DE)",LUGAR,COMPLETO,0,SUR,6_31,5028
+"CAMPOSOTO (DE)",CTRA,COMPLETO,0,SUR,"6_8,6_17,6_24,6_25",3033
+"CANAL DE SAN JORGE",CALLE,COMPLETO,0,SUR,6_28,5178
+CANARIAS,CALLE,COMPLETO,0,CENTRO,5_6,1054
+CANARIO,CALLE,COMPLETO,0,SUR,6_8,372
+CANASTERAS,CALLE,COMPLETO,0,SUR,6_26,5193
+"CANTAUTOR CARLOS CANO",AVDA,COMPLETO,0,SUR,6_26,2034
+"CANTAUTOR VICTOR JARA",CALLE,COMPLETO,0,SUR,6_31,3100
+"CANTE (DEL)",RTDA,COMPLETO,0,SUR,6_17,5191
+"CANTERA DE RICO",LUGAR,COMPLETO,0,NORTE,1_11,1027
+"CANTERA DEL REY",CLLON,COMPLETO,0,NORTE,"1_15,1_17",65
+"CANTILLO (EL)",CALLE,COMPLETO,0,CENTRO,6_2,1006
+"CAÑO HERRERA",CTRA,COMPLETO,0,NORTE,1_9,341
+"CAPATAZ NICOLAS CARRILLO",CALLE,COMPLETO,0,NORTE,4_2,2165
+"CAPITAN ANGEL SEVILLANO",CALLE,COMPLETO,0,CENTRO,5_6,1067
+"CAPITAN CONFORTO",PASEO,COMPLETO,0,NORTE,1_14,71
+CAPRI,CALLE,COMPLETO,0,NORTE,1_9,11
+"CARDENAL SPINOLA",CALLE,COMPLETO,0,NORTE,3_3,1021
+"CARLOS III",AVDA,COMPLETO,0,NORTE,"1_1,1_4",278
+CARMEN,CALLE,COMPLETO,0,CENTRO,"6_5,6_6",2018
+"CARMEN (DEL)",PLAZA,COMPLETO,0,SUR,6_28,2075
+CARRACA,CALLE,COMPLETO,0,NORTE,"2_1,1_7,1_8,1_12",27
+"CARRACA (DE LA)",CTRA," TODOS PARES",0,ERACIS,1_1,72
+"CARRACA (DE LA)",CTRA,"TODOS IMPARES",4,NORTE,1_1,72
+CARTAGENA,CALLE,COMPLETO,0,NORTE,1_8,60
+CARTAGENERAS,CALLE,COMPLETO,0,SUR,6_30,5202
+"CARTOGRAFO VICENTE TOFIÑO",CALLE,COMPLETO,0,CENTRO,5_7,5066
+"CASCOS AZULES DE LA ISLA",CALLE,COMPLETO,0,CENTRO,"5_1,6_21",5152
+"CASERIO DE INFANTE",PLAZA,COMPLETO,0,NORTE,1_17,5063
+"CASERIO DE RICARDO",CALLE,COMPLETO,0,NORTE,1_5,5159
+"CASTILLO DE LOYOLA",CALLE,COMPLETO,0,NORTE,1_9,32
+"CASTILLO DE OLITE",CALLE,COMPLETO,0,CENTRO,5_7,87
+"CAYETANO DEL TORO",CALLE,COMPLETO,0,CENTRO,"4_1,4_5",2031
+"CAYETANO ROLDAN",AVDA,COMPLETO,0,NORTE,"3_1,4_4",1191
+"CECILIO PUJAZON",CALLE,COMPLETO,0,CENTRO,"5_2,5_4,6_1,6_21",1039
+"CENTURIA ISLA DE LEON",CALLE,COMPLETO,0,NORTE,"1_6,1_9",47
+"CERRO DE LOS ANGELES",CALLE,COMPLETO,0,SUR,6_26,2048
+CERVANTES,CALLE,COMPLETO,0,CENTRO,4_1,2046
+CETINA,CALLE,COMPLETO,0,SUR,6_31,388
+CHAMARIZ,CALLE,COMPLETO,0,SUR,6_8,5175
+CHAPISTAS,CALLE,COMPLETO,0,NORTE,1_9,275
+CHARRAN,CALLE,COMPLETO,0,SUR,6_8,5174
+CHILE,CALLE,COMPLETO,0,SUR,"6_24,6_31",2510
+CHOPO,CALLE,COMPLETO,0,NORTE,4_6,5097
+CHURRUCA,CALLE,COMPLETO,0,NORTE,"1_10,2_1,3_6",45
+"CID (DEL)",AVDA,COMPLETO,0,NORTE,1_7,131
+CIGUEÑA,CALLE,COMPLETO,0,SUR,6_8,5039
+"COFRADIA DEL HUERTO",CALLE,COMPLETO,0,NORTE,"1_11,1_12",146
+"COGHEN (DE)",CLLON,COMPLETO,0,NORTE,"3_1,3_5",29
+"COLEGIO NAVAL SACRAMENTO",CALLE,COMPLETO,0,CENTRO,"6_1,6_21",2055
+COLOMBIA,CALLE,COMPLETO,0,SUR,6_24,2509
+COLOMBIANAS,CALLE,COMPLETO,0,SUR,6_30,5197
+COLON,CALLE,COMPLETO,0,NORTE,"3_1,3_2,3_3,3_6,4_5",1036
+"COLUMNAS DE HERCULES",CALLE,COMPLETO,0,CENTRO,5_1,5232
+"COMANDANTE G C REULA GOMEZ",CALLE,COMPLETO,0,NORTE,3_7,1063
+"COMANDANTE RUIZ MARCET",CALLE,COMPLETO,0,NORTE,"1_6,1_10,1_16",41
+COMETA,CALLE,COMPLETO,0,SUR,6_26,5093
+"COMPAÑIA DE MARIA",CALLE,COMPLETO,0,SUR,"6_24,6_31",2059
+"CONCEJAL MANUEL BELIZON",CALLE,COMPLETO,0,NORTE,1_5,5094
+"CONCHA PEREZ BATURONE",CALLE,COMPLETO,0,SUR,"6_10,6_28",167
+"CONDE DE FLORIDABLANCA",CALLE,COMPLETO,0,NORTE,1_4,62
+"CONDE DE LA MARQUINA",CALLE,COMPLETO,0,SUR,6_25,3107
+"CONDESA DE MORALES",CALLE,COMPLETO,0,NORTE,4_6,5030
+"CONSTITUCION (DE LA)",AVDA,COMPLETO,0,SUR,"6_16,6_17,6_25,6_24",2074
+"CONSTRUCTOR TAPIA",CALLE,COMPLETO,0,NORTE,1_15,1002
+"CONSTRUCTORA NAVAL",CALLE,COMPLETO,0,NORTE,"3_3,4_5",1042
+CORBETA,CALLE,COMPLETO,0,SUR,6_11,3029
+CORDOBA,CALLE,COMPLETO,0,SUR,6_29,5132
+"CORNELIO BALBO",AVDA,COMPLETO,0,SUR,6_12,4019
+"CORONEL GABRIEL MOURENTE",CALLE,COMPLETO,0,SUR,6_19,3026
+CORRELIMOS,CALLE,COMPLETO,0,SUR,6_8,5040
+CORTA,CALLE,COMPLETO,0,SUR,6_24,2062
+"CORTES (LAS)",CALLE,COMPLETO,0,CENTRO,4_1,1059
+"COSTA RICA",CALLE,COMPLETO,0,SUR,6_31,2513
+"CROQUER (DE)",CLLON,COMPLETO,0,NORTE,3_4,1079
+"CRUZ ROJA ESPAÑOLA",CALLE,COMPLETO,0,SUR,6_9,1034
+"CRUZ (DE LA)",RTDA,COMPLETO,0,NORTE,1_5,537
+"CUARTEL DE INSTRUCCION",LUGAR,COMPLETO,0,NORTE,1_14,603
+CUBA,CALLE,COMPLETO,0,SUR,6_31,2504
+CUSTODIO,CALLE,COMPLETO,0,NORTE,1_1,88
+"DANIEL GONZALEZ",CALLE,COMPLETO,0,NORTE,3_2,1046
+DAOIZ,CALLE,COMPLETO,0,CENTRO,"4_1,5_2",1044
+"DIEGO DE ALVEAR",CALLE,COMPLETO,0,NORTE,3_4,1098
+"DIRECTOR DEL OBSERVATORIO - TOMAS AZCARATE",CALLE,COMPLETO,0,CENTRO,5_1,2136
+"DOCTOR ARCOS DE LA PLAZA",CALLE,COMPLETO,0,NORTE,3_1,1193
+"DOCTOR BARRAQUER",CALLE,COMPLETO,0,NORTE,3_5,1040
+"DOCTOR CELESTINO REY-JOLY",CALLE,COMPLETO,0,SUR,"6_17,6_27",1184
+"DOCTOR CELLIER",CALLE,COMPLETO,0,CENTRO,"5_4,5_5",1033
+"DOCTOR EROSTARBE",CALLE,COMPLETO,0,NORTE,1_6,68
+"DOCTOR FRANCISCO COBOS",CALLE,COMPLETO,0,NORTE,"1_16,1_7,1_8,1_12,2_1",76
+"DOCTOR JIMENEZ DIAZ",CALLE,COMPLETO,0,NORTE,3_5,91
+"DOCTOR MARAÑON",CALLE,COMPLETO,0,NORTE,3_5,1053
+"DOCTOR PEDRO GONZALEZ DE LA TORRE",CALLE,COMPLETO,0,SUR,6_31,3101
+"DOCTOR PEDRO VELEZ",CALLE,COMPLETO,0,CENTRO,5_7,90
+"DOCTOR REVUELTA SOBA",CALLE,COMPLETO,0,CENTRO,5_6,3041
+DOLORES,CALLE,COMPLETO,0,CENTRO,5_3,1029
+"DON JORGE",CALLE,COMPLETO,0,CENTRO,5_5,239
+DRAGO,CALLE,COMPLETO,0,NORTE,4_4,2080
+"DUQUE DE ARCOS",AVDA,COMPLETO,0,SUR,"6_12,6_22",3024
+ECUADOR,CALLE,COMPLETO,0,SUR,6_31,2511
+"EMPERADOR CARLOS",PLAZA,COMPLETO,0,SUR,6_20,3052
+ESCAÑO,CALLE,COMPLETO,0,NORTE,3_2,59
+"ESCOPETEROS SALINEROS",CALLE,COMPLETO,0,SUR,6_8,1019
+"ESCORIAL (EL)",CALLE,COMPLETO,0,NORTE,"1_4,1_13",78
+"ESCRIBANO DE LA TORRE CANALES",CALLE,COMPLETO,0,NORTE,1_17,5183
+"ESCRIBANO GUTIERREZ DE MORON",CALLE,COMPLETO,0,NORTE,1_17,5184
+"ESCRITOR FRANCISCO MONTES AGUILERA",CALLE,COMPLETO,0,NORTE,4_5,1175
+"ESCRITOR GERMAN CAOS",CALLE,COMPLETO,0,NORTE,1_5,5156
+"ESCRITOR LUIS BERENGUER",CALLE,COMPLETO,0,SUR,6_17,276
+"ESCRITOR MANUEL BARRIOS",CALLE,COMPLETO,0,CENTRO,5_6,3089
+"ESCRITORA MARIA ZAMBRANO",CALLE,COMPLETO,0,SUR,6_26,2013
+"ESCUELA DE SUBOFICIALES",LUGAR,COMPLETO,0,NORTE,1_14,126
+"ESCULTOR ALFONSO BERRAQUERO GARCIA",CALLE,COMPLETO,0,NORTE,3_2,5359
+"ESCULTOR ANTONIO BEY",CALLE,COMPLETO,0,NORTE,1_11,1064
+"ESTERO (DEL)",PLAZA,COMPLETO,0,NORTE,1_12,69
+ESTOPIÑAN,CALLE,COMPLETO,0,NORTE,1_17,5160
+ESTRELLA,CALLE,COMPLETO,0,SUR,6_26,5215
+FALUCHO,CALLE,COMPLETO,0,SUR,6_15,163
+"FEDERICO GARCIA LORCA",CALLE,COMPLETO,0,SUR,6_14,3097
+"FELIPE II",CALLE,COMPLETO,0,NORTE,1_1,112
+FERROCARRIL,CALLE,COMPLETO,0,NORTE,1_9,281
+"FERROL (EL)",CALLE,COMPLETO,0,NORTE,1_8,95
+FLAMENCO,CALLE,COMPLETO,0,SUR,6_8,5037
+FLORENCIA,CALLE,COMPLETO,0,NORTE,1_9,50
+"FLORES (LAS)",PLAZA,COMPLETO,0,NORTE,1_5,586
+FRAGATA,CALLE,COMPLETO,0,SUR,6_11,1035
+"FRANCISCO DE LA VEGA",CALLE,COMPLETO,0,SUR,6_31,5171
+"FRANCISCO JAVIER DE URIARTE",CALLE,COMPLETO,0,NORTE,1_15,5351
+"FRANCISCO RUIZ MIGUEL",CALLE,COMPLETO,0,NORTE,3_8,1222
+"FRAY GERONIMO DE LA CONCEPCION",CALLE,COMPLETO,0,NORTE,1_17,5064
+FRESADORES,CALLE,COMPLETO,0,NORTE,1_9,294
+FRESIA,CALLE,COMPLETO,0,CENTRO,6_1,2068
+"GABRIEL GONZALEZ CAMOYANO",CALLE,COMPLETO,0,NORTE,1_9,63
+GALAXIAS,CALLE,COMPLETO,0,SUR,6_26,5059
+GALEON,CALLE,COMPLETO,0,SUR,6_11,3040
+GALERA,CALLE,COMPLETO,0,SUR,6_11,3053
+GALIANO,CALLE,COMPLETO,0,SUR,6_28,2069
+"GALICIA (DE)",PLAZA,COMPLETO,0,NORTE,1_8,5238
+GALON,CALLE,COMPLETO,0,CENTRO,5_1,1225
+GARZA,CALLE,COMPLETO,0,SUR,6_8,5038
+"GASPAR FERNANDEZ DE LEON",CALLE,COMPLETO,0,NORTE,1_1,127
+"GENERAL FLORENCIO MONTOJO",CALLE,COMPLETO,0,NORTE,"1_7,1_8,1_10",64
+"GENERAL GARCIA DE LA HERRAN",CALLE,COMPLETO,0,CENTRO,"4_1,4_4,4_5,4_6,5_6",2101
+"GENERAL LOBO",PASEO,COMPLETO,0,NORTE,1_16,93
+"GENERAL PUJALES",CALLE,COMPLETO,0,CENTRO,"5_6,5_7",1104
+"GENERAL RICARDO OLIVERA",CALLE,COMPLETO,0,SUR,6_22,2081
+"GENERAL SERRANO",CALLE,COMPLETO,0,CENTRO,4_1,2118
+"GENERAL VALDES",CALLE,COMPLETO,0,CENTRO,"5_3,5_4",2083
+GOLETA,CALLE,COMPLETO,0,SUR,6_11,2066
+GOLONDRINA,CALLE,COMPLETO,0,SUR,6_8,405
+"GONZALEZ DE LA VEGA",CALLE,COMPLETO,0,NORTE,3_3,1055
+"GONZALEZ HONTORIA",CALLE,COMPLETO,0,NORTE,4_5,1100
+"GONZALO DE CORDOBA",CALLE,COMPLETO,0,NORTE,"1_7,1_12",70
+GORRION,CALLE,COMPLETO,0,SUR,6_8,412
+GOYA,CALLE,COMPLETO,0,NORTE,1_4,97
+GRANADA,CALLE,COMPLETO,0,SUR,6_29,5133
+"GRANJA (LA)",CALLE,COMPLETO,0,NORTE,1_4,101
+GRAVINA,CALLE,COMPLETO,0,NORTE,3_6,1089
+GUACOLDA,CALLE,COMPLETO,0,CENTRO,6_1,2107
+GUATEMALA,CALLE,COMPLETO,0,SUR,6_31,2516
+"GUTIERREZ AGABO",CALLE,COMPLETO,0,NORTE,1_7,86
+"HERMANAS CARMELITAS",CALLE,COMPLETO,0,SUR,"6_24,6_31",3139
+"HERMANOS ALVAREZ QUINTERO",CALLE,COMPLETO,0,CENTRO,5_6,3106
+"HERMANOS DE LA SALLE",CALLE,COMPLETO,0,SUR,6_26,3051
+"HERMANOS LAGARDE",CALLE,COMPLETO,0,NORTE,1_6,107
+"HERMANOS LAULHE",CALLE,COMPLETO,0,CENTRO,4_1,1123
+"HERMANOS MACHADO",CALLE,COMPLETO,0,SUR,6_14,4139
+"HERMANOS PINZON",CALLE,COMPLETO,0,NORTE,1_14,5033
+"HERNAN CORTES",CALLE,COMPLETO,0,NORTE,"1_8,2_1,3_2",116
+"HEROES DE CAVITE",CALLE,COMPLETO,0,CENTRO,5_7,1111
+"HEROES DEL BALEARES",CALLE,COMPLETO,0,CENTRO,5_4,2100
+"HERRAN (LA)",CALLE,COMPLETO,0,NORTE,"3_4,4_2",1073
+HONDURAS,CALLE,COMPLETO,0,SUR,6_31,2512
+"HORNOS PUNICOS",PLAZA,COMPLETO,0,CENTRO,"5_1,6_10,6_29",5165
+HUELVA,CALLE,COMPLETO,0,SUR,6_29,5134
+"HUERTA CASTAÑEDA",LUGAR,COMPLETO,0,SUR,6_31,545
+"HUERTA DE LAS FLORES",LUGAR,"",0,"","",2160
+"HUERTA ENCARNACION",LUGAR,COMPLETO,0,NORTE,1_5,180
+"HUERTA LOS TORILILLOS",LUGAR,COMPLETO,0,SUR,6_24,2182
+"HUERTA REVERBERO",LUGAR,COMPLETO,0,NORTE,1_5,224
+"HUERTA SAN IGNACIO",LUGAR,COMPLETO,0,SUR,6_31,524
+"HUERTA SAN JOAQUIN",LUGAR,COMPLETO,0,SUR,6_26,4064
+"HUERTA SANTA ROSA",LUGAR,COMPLETO,0,NORTE,1_14,261
+"HUERTA TORTOSA",LUGAR,COMPLETO,0,NORTE,1_5,277
+"INGENIERO JOSE BARNOLA",CALLE,COMPLETO,0,NORTE,1_5,5157
+"INGENIERO JUAN CARBO",CALLE,COMPLETO,0,CENTRO,5_7,4133
+"INGENIERO VARGAS MACHUCA",CALLE,COMPLETO,0,NORTE,1_15,5349
+"INSTITUTO SANTI PETRI",LUGAR,COMPLETO,0,NORTE,3_8,1243
+"INTENDENTE PATIÑO",CALLE,COMPLETO,0,NORTE,1_13,160
+"ISAAC PERAL",CALLE,COMPLETO,0,CENTRO,"5_2,5_3",1060
+"ISLA DE LEON",CALLE,COMPLETO,0,SUR,6_31,427
+JABEQUE,CALLE,COMPLETO,0,SUR,6_15,2179
+"JACINTO BENAVENTE",CALLE,COMPLETO,0,NORTE,1_11,159
+JAEN,PLAZA,COMPLETO,0,SUR,6_14,5229
+JARDINILLO,CALLE,COMPLETO,0,NORTE,3_4,130
+"JAVIER MEDINA",CALLE,COMPLETO,0,NORTE,1_15,5352
+JAZMIN,CALLE,COMPLETO,0,NORTE,3_7,1145
+JERUSALEN,CALLE,COMPLETO,0,NORTE,1_1,5218
+"JESUS DE LA MISERICORDIA",CALLE,COMPLETO,0,NORTE,2_1,83
+"JESUS DE LOS AFLIGIDOS",CALLE,COMPLETO,0,NORTE,1_9,79
+"JESUS NAZARENO",CALLE,COMPLETO,0,SUR,6_26,2070
+JILGUERO,CALLE,COMPLETO,0,SUR,6_8,433
+"JOAQUIN CRISTELLY",CALLE,COMPLETO,0,NORTE,1_6,114
+"JOLY VELASCO",PASEO,COMPLETO,0,NORTE,1_14,283
+"JORGE JUAN",CALLE,COMPLETO,0,NORTE,4_2,2089
+"JOSE GARZON",CALLE,COMPLETO,0,SUR,6_31,1209
+"JOSE GIL SANCHEZ",CALLE,COMPLETO,0,SUR,6_9,2052
+"JOSE LOPEZ RODRIGUEZ",CALLE,COMPLETO,0,CENTRO,5_2,1076
+"JOSE MARIA CARPIO",CALLE,COMPLETO,0,NORTE,1_6,129
+"JOSE MARIA PEMAN",CALLE,COMPLETO,0,SUR,6_14,4101
+"JOSE MARIA PEREDA",CALLE,COMPLETO,0,CENTRO,5_6,3113
+"JOSE QUETAR",CALLE,COMPLETO,0,SUR,6_26,2086
+"JOSE RAMOS BORRERO",CALLE,COMPLETO,0,SUR,"6_11,6_16,6_25",4114
+"JOSE SUAREZ",PLAZA,COMPLETO,0,NORTE,"1_11,1_16",1099
+JOVELLANOS,CALLE,COMPLETO,0,SUR,6_28,1115
+"JUAN DE AUSTRIA",CALLE,COMPLETO,0,NORTE,"1_16,1_7,1_10,1_12",99
+"JUAN DE LA COSA",CALLE,COMPLETO,0,NORTE,1_14,5032
+"JUAN DE MARIANA",CALLE,COMPLETO,0,NORTE,3_3,1068
+"JUAN FRANZON AÑINO",CALLE,COMPLETO,0,SUR,6_9,1065
+"JUAN MALPICA",CALLE,COMPLETO,0,NORTE,1_14,296
+"JUAN RAMON JIMENEZ",CALLE,COMPLETO,0,NORTE,1_11,5060
+"JUAN SEBASTIAN ELCANO",CALLE,COMPLETO,0,NORTE,"1_14,1_15,1_17",300
+"JUAN VAN HALEN",CALLE,COMPLETO,0,CENTRO,6_4,2012
+JUPITER,CALLE,COMPLETO,0,SUR,6_26,3099
+"LADRILLERA (DE LA)",PLAZA,COMPLETO,0,NORTE,4_6,5031
+LANDA,CALLE,COMPLETO,0,NORTE,1_5,317
+LANUZA,CALLE,COMPLETO,0,CENTRO,5_4,2117
+LANZA,CALLE,COMPLETO,0,NORTE,"1_10,2_1",106
+LAURIA,CALLE,COMPLETO,0,CENTRO,"6_4,6_5,6_18",4041
+LEPANTO,CALLE,COMPLETO,0,CENTRO,5_2,82
+LEZO,CALLE,COMPLETO,0,CENTRO,5_5,1070
+LISTA,CALLE,COMPLETO,0,CENTRO,"4_3,5_3",2072
+"LOPE DE VEGA",CALLE,COMPLETO,0,CENTRO,"5_5,6_2",3047
+LOSADA,CALLE,COMPLETO,0,CENTRO,"5_4,6_1",3114
+LUGANO,CALLE,COMPLETO,0,SUR,6_8,448
+"LUIS CERNUDA",CALLE,COMPLETO,0,SUR,6_14,3118
+"LUIS DE ARDILA",CALLE,COMPLETO,0,NORTE,1_6,153
+"LUIS DE OSSIO",CALLE,COMPLETO,0,NORTE,"1_14,1_15,1_17",5045
+"LUIS MILENA",CALLE,COMPLETO,0,SUR,"6_8,6_11,6_25",451
+LUNA,CALLE,COMPLETO,0,SUR,6_26,1201
+"MADRES CAPUCHINAS",CALLE,COMPLETO,0,NORTE,4_6,1173
+"MAESTRO FRANCISCO ROMERO NARANJO",CALLE,COMPLETO,0,NORTE,1_15,1001
+"MAESTRO PORTELA",CALLE,COMPLETO,0,NORTE,"2_1,3_6",100
+MAGALLANES,CALLE,COMPLETO,0,NORTE,"1_17,1_5,1_14,1_15",322
+MALAGA,CALLE,COMPLETO,0,SUR,6_14,5228
+MALAGUEÑAS,CALLE,COMPLETO,0,SUR,6_26,5204
+MALASPINA,CALLE,COMPLETO,0,CENTRO,"5_5,6_2,6_3",2050
+MALDONADO,CALLE,COMPLETO,0,CENTRO,5_7,84
+MALLORCA,CALLE,COMPLETO,0,CENTRO,5_4,2138
+"MANUEL DE ARRIAGA",CALLE,COMPLETO,0,CENTRO,6_1,2129
+"MANUEL DE FALLA",CALLE,COMPLETO,0,CENTRO,"6_3,6_18",3039
+"MANUEL MONTESINO ANILLO",CALLE,COMPLETO,0,NORTE,1_6,166
+"MANUEL ROLDAN",CALLE,COMPLETO,0,NORTE,"2_1,3_2,3_6",1097
+MARCONI,CALLE,COMPLETO,0,NORTE,3_2,1101
+"MARIA AUXILIADORA",CALLE,COMPLETO,0,SUR,6_24,1015
+"MARIANA DE ARTEAGA",CALLE,COMPLETO,0,CENTRO,"6_2,6_3,6_18",1069
+"MARIANA DE PINEDA",CALLE,COMPLETO,0,NORTE,"2_1,3_2",122
+"MARINA (DE LA)",AVDA,COMPLETO,0,SUR,"6_6,6_20",49
+"MARINA (LA)",CLLON,COMPLETO,0,NORTE,1_17,338
+MARISMAS,CALLE,COMPLETO,0,CENTRO,6_21,2135
+"MARQUES DE CAZALLA",CALLE,COMPLETO,0,NORTE,1_14,512
+"MARQUES DE LA ENSENADA",CALLE,COMPLETO,0,NORTE,1_4,118
+"MARQUES DE LA VICTORIA",CALLE,COMPLETO,0,NORTE,1_8,121
+"MARQUES DE RECAÑO",CALLE,COMPLETO,0,SUR,6_25,1140
+"MARQUES DE UREÑA",CALLE,COMPLETO,0,CENTRO,5_4,2156
+"MARTINETE (DEL)",PLAZA,COMPLETO,0,SUR,6_17,5189
+"MATILDE VEZ GARCIA",CALLE,COMPLETO,0,NORTE,1_14,5361
+"MATRONA ANA MARISCAL",CALLE,COMPLETO,0,SUR,"6_10,6_28",5177
+MAYORAZGA,CALLE,COMPLETO,0,CENTRO,5_5,1110
+MAZARREDO,CALLE,COMPLETO,0,NORTE,3_6,1128
+MEJICO,CALLE,COMPLETO,0,SUR,"6_24,6_31",2502
+"MENDEZ NUÑEZ",CALLE,COMPLETO,0,NORTE,"1_8,1_10,2_1",138
+MENORCA,CALLE,COMPLETO,0,CENTRO,5_4,2169
+MERCURIO,CALLE,COMPLETO,0,SUR,6_26,2110
+METEORITOS,CALLE,COMPLETO,0,SUR,6_26,5106
+MILONGAS,CALLE,COMPLETO,0,SU﻿R,"6_17,6_30",5206
+MINERAS,CALLE,COMPLETO,0,SUR,"6_17,6_60",5209
+MIÑO,CALLE,COMPLETO,0,NORTE,1_8,5236
+MOGUER,CALLE,COMPLETO,0,CENTRO,5_6,3128
+"MONTAÑESES DE LA ISLA",CALLE,COMPLETO,0,NORTE,"3_2,3_4,3_8",5074
+MONTIGNY,CALLE,COMPLETO,0,CENTRO,"5_1,6_10",5180
+"MORENO DE GUERRA",ALAM,COMPLETO,0,CENTRO,6_1,3016
+MOSQUETE,CALLE,COMPLETO,0,NORTE,1_17,304
+"MUÑOZ TORRERO",CALLE,COMPLETO,0,NORTE,4_6,5029
+MURILLO,CALLE,COMPLETO,0,NORTE,"3_3,3_4,4_2,4_5",74
+MUROS,CALLE,COMPLETO,0,CENTRO,5_6,2134
+"NAO VICTORIA",PLAZA,COMPLETO,0,SUR,6_16,3135
+NAPOLES,CALLE,COMPLETO,0,NORTE,1_10,128
+NARANJOS,CALLE,COMPLETO,0,NORTE,4_4,2114
+NAZARET,CALLE,COMPLETO,0,NORTE,1_1,170
+NEBULOSAS,CALLE,COMPLETO,0,SUR,6_26,5149
+"NEPTUNO (DE)",PLAZA,COMPLETO,0,CENTRO,6_23,3059
+NICARAGUA,CALLE,COMPLETO,0,SUR,6_31,2517
+NICOLA,CALLE,COMPLETO,0,NORTE,3_4,1183
+"NOTARIO NICOLÁS M  DE SIERRA",CALLE,COMPLETO,0,NORTE,1_15,5350
+NOYA,CALLE,COMPLETO,0,NORTE,4_4,1129
+"NUESTRA SEÑORA DE ARANZAZU",CALLE,COMPLETO,0,NORTE,1_9,85
+NUEVA,CALLE,COMPLETO,0,SUR,6_24,255
+"OBISPO VERA DELGADO",CALLE,COMPLETO,0,NORTE,1_15,5353
+"OBSERVATORIO DE MARINA",LUGAR,COMPLETO,0,CENTRO,5_7,1245
+OBUSERA,CALLE,COMPLETO,0,SUR,6_16,5025
+OLIVARILLO,CALLE,COMPLETO,0,CENTRO,"6_4,6_18",3057
+OLMO,CALLE,COMPLETO,0,NORTE,4_4,255
+OLMO,CALLE,COMPLETO,0,NORTE,4_4,1135
+"ONOFRE ORY",CALLE,COMPLETO,0,NORTE,1_14,343
+ORLANDO,CALLE,COMPLETO,0,CENTRO,6_5,2054
+"ORTEGA Y GASSET",CALLE,COMPLETO,0,NORTE,1_6,172
+"OSA MAYOR",CALLE,COMPLETO,0,SUR,6_26,1203
+"OSA MENOR",CALLE,COMPLETO,0,SUR,6_26,1204
+PADILLA,CALLE,COMPLETO,0,CENTRO,5_2,1095
+"PADRE FRANCO",CALLE,COMPLETO,0,SUR,6_9,1071
+"PAGO ARBOLEDILLA",LUGAR,COMPLETO,0,SUR,6_31,268
+"PAGO TORRE REDONDA",LUGAR,COMPLETO,0,SUR,6_26,1257
+"PALACIO VALDES",CALLE,COMPLETO,0,CENTRO,5_6,3149
+PALMA,CALLE,COMPLETO,0,CENTRO,6_5,2067
+PALO,CALLE,COMPLETO,0,SUR,6_24,293
+PANAMA,CALLE,COMPLETO,0,SUR,6_24,2508
+PARAGUAY,CALLE,COMPLETO,0,SUR,6_24,2514
+"PARDO (EL)",CALLE,COMPLETO,0,NORTE,"1_4,1_13",123
+"PASCUAL O'DOGHERTY",CALLE,COMPLETO,0,NORTE,1_9,102
+PASTOR,CALLE,COMPLETO,0,NORTE,1_15,356
+"PASTOR MIGUEL BLANCO FERRER",CALLE,COMPLETO,0,NORTE,1_6,5340
+"PATIO DE LA ACEQUIA",LUGAR,COMPLETO,0,NORTE,1_14,535
+PATRONA,CALLE,COMPLETO,0,NORTE,"1_9,1_10",119
+"PECES CASAS",CALLE,COMPLETO,0,CENTRO,5_4,2175
+"PEDRO MESA",CALLE,COMPLETO,0,NORTE,1_14,375
+"PEDROSO (EL)",CALLE,COMPLETO,0,SUR,6_24,464
+PERDIZ,CALLE,COMPLETO,0,SUR,6_8,5213
+"PEREZ GALDOS",CALLE,COMPLETO,0,CENTRO,"4_2,4_3,5_3",1050
+PESCADORES,CALLE,COMPLETO,0,CENTRO,6_2,3079
+PICAFINA,CALLE,COMPLETO,0,SUR,6_8,5146
+"PINO (DEL)",CLLON,COMPLETO,0,NORTE,1_5,564
+"PINTOR ANGEL COUSILLAS",CALLE,COMPLETO,0,CENTRO,5_6,3152
+"PINTOR FERNANDO VELA",CALLE,COMPLETO,0,SUR,"6_17,6_27",5044
+"PINTOR HERNANDEZ HOMEDES",CALLE,COMPLETO,0,SUR,6_27,3125
+"PINTOR JOSE MARTINEZ PEPIÑO",CALLE,COMPLETO,0,NORTE,"1_6,1_16",55
+"PIO XII",CALLE,COMPLETO,0,NORTE,1_1,203
+PISA,CALLE,COMPLETO,0,NORTE,1_9,124
+PIZARRO,CALLE,COMPLETO,0,CENTRO,6_2,3060
+PLANETA,CALLE,COMPLETO,0,SUR,6_26,5168
+"PLAYA DE LA CASERIA",LUGAR,COMPLETO,0,NORTE,1_15,5167
+PLUTON,CALLE,COMPLETO,0,SUR,6_26,2131
+"POETA JIMENEZ DE AYLLON",CALLE,COMPLETO,0,NORTE,4_6,5145
+"POETA PABLO NERUDA",CALLE,COMPLETO,0,SUR,6_31,1211
+"POETA RAFAEL ALBERTI",CALLE,COMPLETO,0,SUR,"6_14,6_23",5055
+"PONCE DE LEON",AVDA,COMPLETO,0,SUR,"6_12,6_49,6_22",189
+"PRESIDENTE LAZARO DOU",CALLE,COMPLETO,0,SUR,6_28,192
+"PRESIDENTE SALVADOR ALLENDE",CALLE,COMPLETO,0,SUR,6_31,1210
+PRIM,CALLE,COMPLETO,0,SUR,6_31,335
+PRINCIPE,CALLE,COMPLETO,0,NORTE,1_13,139
+"PROFESOR ANTONIO RAMOS",CALLE,COMPLETO,0,NORTE,"3_1,3_5,3_6",1072
+"PROFESOR JOSE AUMENTE",CALLE,COMPLETO,0,SUR,6_10,5179
+"PROFESOR VIEYTES MUÑOZ",CALLE,COMPLETO,0,SUR,6_28,5161
+"PROLONGACION DE SANTA MARIA",CALLE,COMPLETO,0,NORTE,1_9,145
+"PUENTE LAVAERA",CALLE,COMPLETO,0,CENTRO,6_2,1075
+"PUENTE ZUAZO",AVDA,COMPLETO,0,NORTE,"1_8,3_8",1196
+"PUERTO DE PALOS",BARDA,COMPLETO,0,CENTRO,5_6,2171
+"PUERTO RICO",CALLE,COMPLETO,0,SUR,6_31,2503
+QUEVEDO,CALLE,COMPLETO,0,NORTE,4_5,1122
+QUIDORA,CALLE,COMPLETO,0,CENTRO,6_1,1153
+"RAMON MENENDEZ PIDAL",CALLE,COMPLETO,0,NORTE,"1_7,1_12",3108
+"RAMON Y CAJAL",CALLE,COMPLETO,0,NORTE,"1_11,1_16",188
+REAL,CALLE,"",1,CENTRO,"3_4,4_1,4_2,4_3",1161
+"REAL CARENERO",CALLE,COMPLETO,0,NORTE,1_14,5143
+"RECREO EL MOLINO",LUGAR,COMPLETO,0,NORTE,1_15,420
+"REGIDOR NICOLAS EGEA",CALLE,COMPLETO,0,NORTE,1_17,5182
+"RESIDENCIA CRUZ ROJA",LUGAR,COMPLETO,0,NORTE,3_8,1244
+REVELACION,CALLE,COMPLETO,0,NORTE,1_1,225
+"REY (DEL)",PLAZA,COMPLETO,0,CENTRO,"4_1,5_3",35
+"REYES CATOLICOS",AVDA,COMPLETO,0,NORTE,"3_1,3_5,3_6,4_5,4_6",5077
+"REYES MAGOS",CALLE,COMPLETO,0,NORTE,1_1,231
+"RIAS BAJAS",CALLE,COMPLETO,0,NORTE,1_8,5235
+RIOFRIO,CALLE,COMPLETO,0,NORTE,1_13,144
+"RODRIGUEZ DE ARIAS",PLAZA,COMPLETO,0,CENTRO,5_5,48
+"RONDA DEL ESTERO",AVDA,"",7,CENTRO,5_5,5309
+RONDEÑAS,CALLE,COMPLETO,0,SUR,6_17,5208
+ROSARIO,CALLE,COMPLETO,0,NORTE,"3_3,4_2,4_5",1016
+RUISEÑOR,CALLE,COMPLETO,0,SUR,6_8,5176
+"RUIZ AHUMADA",CALLE,COMPLETO,0,NORTE,1_17,5140
+"SALINA SAN VICENTE",LUGAR,COMPLETO,0,NORTE,1_1,232
+"SALINAS (DE LAS)",PLAZA,COMPLETO,0,NORTE,1_12,115
+SALINEROS,CALLE,COMPLETO,0,CENTRO,6_2,3102
+"SAN AGUSTIN",CALLE,COMPLETO,0,SUR,"6_22,6_28",1120
+"SAN ANACLETO",CALLE,COMPLETO,0,NORTE,1_8,142
+"SAN ANTONIO",CALLE,COMPLETO,0,CENTRO,"6_5,6_18",3076
+"SAN BRUNO",CALLE,COMPLETO,0,CENTRO,"5_5,6_2,6_3,6_18",2119
+"SAN CIPRIANO",CALLE,COMPLETO,0,NORTE,3_3,1093
+"SAN CRISTOBAL",CALLE,COMPLETO,0,CENTRO,"4_3,5_3",2063
+"SAN DIEGO DE ALCALA",CALLE,COMPLETO,0,CENTRO,4_1,2139
+"SAN DIMAS",CALLE,COMPLETO,0,NORTE,"2_1,3_2",1139
+"SAN ESTEBAN",CALLE,COMPLETO,0,NORTE,3_3,1107
+"SAN FEDERICO",CALLE,COMPLETO,0,NORTE,"1_5,1_14",533
+"SAN FELIX DE VALOIS",CALLE,COMPLETO,0,NORTE,1_16,191
+"SAN FRANCISCO DE ASIS",CALLE,COMPLETO,0,CENTRO,4_3,2079
+"SAN FRANCISCO DE BORJA",CALLE,COMPLETO,0,NORTE,1_9,158
+"SAN FRANCISCO JAVIER",CALLE,COMPLETO,0,NORTE,1_9,161
+"SAN GASPAR",CALLE,COMPLETO,0,NORTE,3_3,1114
+"SAN GIL",CALLE,COMPLETO,0,SUR,6_20,1090
+"SAN IGNACIO",CALLE,COMPLETO,0,NORTE,"1_9,1_10,3_5",1088
+"SAN JOAQUIN",CALLE,COMPLETO,0,CENTRO,"6_1,6_28",2188
+"SAN JOSE",CALLE,COMPLETO,0,CENTRO,5_3,1127
+"SAN JOSE",PLAZA,COMPLETO,0,CENTRO,5_3,186
+"SAN JOSE Y SAN ANTONIO",CALLE,COMPLETO,0,NORTE,"1_6,1_9",205
+"SAN JUAN",PLAZA,COMPLETO,0,NORTE,1_5,454
+"SAN JUAN BAUTISTA",CALLE,COMPLETO,0,NORTE,"1_11,1_12,1_16",212
+"SAN JUAN BOSCO",AVDA,COMPLETO,0,CENTRO,"3_7,3_8",5216
+"SAN JUAN DE DIOS",CALLE,COMPLETO,0,SUR,6_26,2146
+"SAN JUAN DE LA CRUZ",CALLE,COMPLETO,0,SUR,"6_10,6_28",1141
+"SAN MARCOS",CALLE,COMPLETO,0,CENTRO,"3_4,3_7,4_2,4_3,5_3",2128
+"SAN MIGUEL",CALLE,COMPLETO,0,NORTE,"1_8,1_14",155
+"SAN MIGUEL",PLAZA,COMPLETO,0,NORTE,2_1,548
+"SAN NICOLAS",CALLE,COMPLETO,0,CENTRO,"3_8,4_3",2032
+"SAN ONOFRE",CALLE,"",0,CENTRO,"6_3,6_4,6_5,6_6",2060
+"SAN PEDRO APOSTOL",CALLE,COMPLETO,0,NORTE,"4_2,4_3",2098
+"SAN QUINTIN",CALLE,COMPLETO,0,SUR,6_20,104
+"SAN RAFAEL",CALLE,COMPLETO,0,NORTE,"1_16,1_7,1_10,1_12",61
+"SAN ROMAN",CALLE,COMPLETO,0,CENTRO,6_5,3092
+"SAN ROQUE",CALLE,COMPLETO,0,NORTE,"1_15,1_17",467
+"SAN SERVANDO",CALLE,COMPLETO,0,NORTE,"3_4,4_2,4_3",1217
+"SAN VICENTE",CALLE,COMPLETO,0,NORTE,4_2,2152
+"SANCHEZ CERQUERO",CALLE,COMPLETO,0,CENTRO,"5_2,5_3,5_4",1109
+"SANCHEZ MARQUEZ",CALLE,COMPLETO,0,CENTRO,5_5,1178
+"SANTA ANA",CALLE,COMPLETO,0,NORTE,1_14,536
+"SANTA BARBARA",CALLE,COMPLETO,0,CENTRO,"6_4,6_5",2051
+"SANTA BARBARA",PLAZA,COMPLETO,0,CENTRO,6_21,2191
+"SANTA CRUZ",CALLE,COMPLETO,0,NORTE,2_1,169
+"SANTA GERTRUDIS",CALLE,COMPLETO,0,CENTRO,"6_4,6_5",4113
+"SANTA JOAQUINA DE VEDRUNA",CALLE,COMPLETO,0,NORTE,1_9,196
+"SANTA JUANA DE LESTONAC",PLAZA,COMPLETO,0,CENTRO,6_21,1212
+"SANTA LUCIA",CALLE,COMPLETO,0,NORTE,3_6,175
+"SANTA MARIA",CALLE,COMPLETO,0,NORTE,"1_9,1_10",200
+"SANTA MARIA DE LA CABEZA",CALLE,COMPLETO,0,NORTE,1_9,217
+"SANTA RITA",CALLE,COMPLETO,0,NORTE,1_9,222
+"SANTA ROSA",CALLE,COMPLETO,0,NORTE,1_14,5138
+"SANTA ROSALIA",CALLE,COMPLETO,0,NORTE,"2_1,3_2",157
+"SANTA TERESA DE JESUS",CALLE,COMPLETO,0,NORTE,"1_8,2_1",194
+SANTIAGO,CALLE,COMPLETO,0,CENTRO,"4_3,5_3",151
+"SANTIAGO DE COMPOSTELA",CALLE,COMPLETO,0,NORTE,1_8,5233
+"SANTISIMA TRINIDAD",CALLE,COMPLETO,0,CENTRO,5_5,184
+"SANTO ANGEL",CALLE,COMPLETO,0,NORTE,1_15,551
+"SANTO DOMINGO",CALLE,COMPLETO,0,NORTE,"2_1,3_2",208
+"SANTO ENTIERRO",CALLE,COMPLETO,0,SUR,"6_11,6_15,6_20",2111
+"SANTO TOMAS DE AQUINO",CALLE,COMPLETO,0,SUR,6_24,1017
+SATELITE,CALLE,COMPLETO,0,SUR,6_26,5169
+"SATURNINO MONTOJO",CALLE,COMPLETO,0,CENTRO,"5_2,5_3",1116
+SATURNO,CALLE,COMPLETO,0,SUR,6_26,2159
+"SEBASTIAN VENTURA",CALLE,COMPLETO,0,NORTE,1_14,489
+SEGUIRIYAS,CALLE,COMPLETO,0,SUR,6_30,5195
+"SEQUERO GLORIETA",CALLE,COMPLETO,0,NORTE,1_6,227
+SERRANAS,CALLE,COMPLETO,0,SUR,6_17,5207
+"SERVANDO CAMUÑEZ",CALLE,COMPLETO,0,NORTE,"1_11,1_16",162
+"SERVANDO GUTIERREZ",CALLE,COMPLETO,0,NORTE,"1_6,1_10",171
+SEVILLA,CALLE,COMPLETO,0,SUR,6_29,5127
+SIERRA,CALLE,COMPLETO,0,SUR,6_11,1105
+"SIRENAS (DE LAS)",PLAZA,COMPLETO,0,CENTRO,6_23,2144
+SOL,CALLE,COMPLETO,0,SUR,"6_30,6_26",5170
+"SOLEDAD (DE LA)",CLLON,COMPLETO,0,NORTE,4_3,5151
+SOLIS,CALLE,COMPLETO,0,CENTRO,6_5,5027
+"SUBESTACION COMPAÑIA SEVILLANA",LUGAR,COMPLETO,0,NORTE,1_14,492
+TANGUILLOS,CALLE,COMPLETO,0,SUR,"6_17,6_30",5199
+TARANTOS,CALLE,COMPLETO,0,SUR,"6_17,6_30",5200
+TERAN,CALLE,COMPLETO,0,SUR,6_20,2126
+"TERCIO DE ARMADA",LUGAR,COMPLETO,0,NORTE,1_14,493
+"TERCIO DE FLANDES",PLAZA,COMPLETO,0,SUR,6_6,2076
+TIERRA,CALLE,COMPLETO,0,SUR,6_26,1202
+TILOS,CALLE,COMPLETO,0,NORTE,4_4,1172
+"TIRSO DE MOLINA",CALLE,COMPLETO,0,CENTRO,5_5,201
+"TOMAS DEL VALLE",CALLE,COMPLETO,0,CENTRO,"5_3,5_4",1208
+"TOMAS Y VALIENTE",RTDA,COMPLETO,0,SUR,6_8,5186
+"TORERO RAFAEL ORTEGA",CALLE,COMPLETO,0,NORTE,1_14,538
+TORPEDERA,CALLE,COMPLETO,0,SUR,6_11,2112
+TORRECHICA,CALLE,COMPLETO,0,CENTRO,5_1,5220
+TORTOLA,CALLE,COMPLETO,0,SUR,6_8,5129
+TRAFALGAR,CALLE,COMPLETO,0,NORTE,1_10,187
+URANO,CALLE,COMPLETO,0,SUR,6_26,218
+URUGUAY,CALLE,COMPLETO,0,SUR,6_31,2515
+"VEINTICUATRO DE SEPTIEMBRE 1810",CALLE,COMPLETO,0,NORTE,4_5,1156
+VELARDE,CALLE,COMPLETO,0,CENTRO,"5_5,6_2,6_3",1130
+VELAZQUEZ,CALLE,COMPLETO,0,CENTRO,4_3,1119
+VENEZUELA,CALLE,COMPLETO,0,SUR,"6_24,6_31",2505
+VENUS,CALLE,COMPLETO,0,SUR,6_26,2162
+"VERA CRUZ",CALLE,COMPLETO,0,CENTRO,5_5,244
+VERDERON,CALLE,COMPLETO,0,SUR,6_8,470
+VERDIALES,CALLE,COMPLETO,0,SUR,6_30,5198
+VERONICA,CALLE,COMPLETO,0,CENTRO,5_5,223
+"VESTUARIO DE COMEDIAS",CALLE,COMPLETO,0,CENTRO,5_5,257
+"VIA LACTEA",CALLE,COMPLETO,0,SUR,6_26,1223
+VICARIO,CALLE,COMPLETO,0,NORTE,3_3,1080
+"VICTORIA EUGENIA",PLAZA,COMPLETO,0,NORTE,3_5,5131
+"VIENTO DEL SUR",CALLE,COMPLETO,0,CENTRO,5_5,1005
+"VIRGEN DE LA ESTRELLA",PSAJE,COMPLETO,0,NORTE,4_5,1181
+VIRIATO,CALLE,COMPLETO,0,NORTE,"1_12,1_6",136
+"VOLUNTARIOS REALISTAS",CALLE,COMPLETO,0,SUR,6_24,1022
+"WENCESLAO BENITEZ",CALLE,COMPLETO,0,CENTRO,5_1,1219
+"ZARZUELA (LA)",CALLE,COMPLETO,0,NORTE,1_13,176
+ZORZAL,CALLE,COMPLETO,0,SUR,6_8,5212
+"","","",0,"","",""
