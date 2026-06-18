@@ -1,7 +1,8 @@
 const zonaURL = {
   sur: "https://outlook.office.com/book/CitaPreviaServiciosSocialesSIVO@sanfernando.es/s/MUR6bcYg_ke4YWv2Bd_BAQ2?ismsaljsauthenabled",
   centro: "https://outlook.office.com/book/CitaPreviaServiciosSocialesSIVO@sanfernando.es/s/bRvOgLQp00apBdVAHwB9_Q2?ismsaljsauthenabled",
-  norte: "https://outlook.office.com/book/CitaPreviaServiciosSocialesSIVO@sanfernando.es/s/KUfhqj3TWUmgXOItAOhpSA2?ismsaljsauthenabled"
+  norte: "https://outlook.office.com/book/CitaPreviaServiciosSocialesSIVO@sanfernando.es/s/KUfhqj3TWUmgXOItAOhpSA2?ismsaljsauthenabled",
+  eracis: "https://outlook.office.com/book/CitaPreviaServiciosSocialesSIVO@sanfernando.es/s/QkbI9Pm80EKHYP8MeC3npw2?ismsaljsauthenabled"
 };
 
 const select = document.getElementById("calle");
